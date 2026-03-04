@@ -1,31 +1,52 @@
-def build_structured_blocks(layout_elements):
+import re
 
-    structured_blocks = []
+SECTION_PATTERN = re.compile(r"^(\d+(\.\d+)*)\s+(.*)")
 
-    for element in layout_elements:
 
-        block_type = element["type"].lower()
-        text = element["text"].strip()
+def build_structured_blocks(pages):
 
-        if not text:
-            continue
+    sections = []
+    current_section = None
 
-        if block_type in ["title"]:
-            block_type = "header"
+    for page in pages:
 
-        elif block_type in ["narrativetext", "text"]:
-            block_type = "text"
+        lines = page["text"].split("\n")
 
-        elif block_type in ["table"]:
-            block_type = "table"
+        for line in lines:
 
-        elif block_type in ["figure", "image"]:
-            block_type = "diagram"
+            line = line.strip()
+            if not line:
+                continue
 
-        structured_blocks.append({
-            "type": block_type,
-            "text": text,
-            "page": element.get("page", None)
-        })
+            match = SECTION_PATTERN.match(line)
 
-    return structured_blocks
+            # If a new section starts
+            if match:
+
+                if current_section:
+                    sections.append(current_section)
+
+                current_section = {
+                    "section_code": match.group(1),
+                    "section_title": match.group(3),
+                    "text": "",
+                    "page": page["page_number"]
+                }
+
+            else:
+
+                if current_section:
+                    current_section["text"] += " " + line
+                else:
+                    # Text before first section
+                    current_section = {
+                        "section_code": "intro",
+                        "section_title": "Introduction",
+                        "text": line,
+                        "page": page["page_number"]
+                    }
+
+    if current_section:
+        sections.append(current_section)
+
+    return sections
