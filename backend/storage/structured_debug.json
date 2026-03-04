@@ -1,0 +1,5152 @@
+[
+  {
+    "type": "drawing_label",
+    "text": "HOFFMAN CONSTRUCTION COMPANY",
+    "page": 1
+  },
+  {
+    "type": "paragraph",
+    "text": "This submittal has been reviewed for general conformance with the contract documents. Contractor's review does not relieve the _ . Vendor/Subcontractor of responsibility for compliance with all Silicon Valley Mechanical requirements of the contract, including completeness and accuracy of",
+    "page": 1
+  },
+  {
+    "type": "short_text",
+    "text": "this submittal.",
+    "page": 1
+  },
+  {
+    "type": "paragraph",
+    "text": "07/31/2025 05 43 00-24.0",
+    "page": 1
+  },
+  {
+    "type": "short_text",
+    "text": "Submittal #",
+    "page": 1
+  },
+  {
+    "type": "drawing_label",
+    "text": "HOFFMAN CONSTRUCTION",
+    "page": 1
+  },
+  {
+    "type": "header",
+    "text": "805 SW Broadway, Suite 2100",
+    "page": 1
+  },
+  {
+    "type": "short_text",
+    "text": "Portland, OR 97205",
+    "page": 1
+  },
+  {
+    "type": "paragraph",
+    "text": "Applied Paragon OSM Strut",
+    "page": 1
+  },
+  {
+    "type": "header",
+    "text": "1010 E. Arques Avenue Sunnyvale, CA 94085",
+    "page": 1
+  },
+  {
+    "type": "drawing_label",
+    "text": "JULY 28, 2025",
+    "page": 1
+  },
+  {
+    "type": "short_text",
+    "text": "05 43 00",
+    "page": 1
+  },
+  {
+    "type": "drawing_label",
+    "text": "SLOTTED CHANNEL FRAMING CABLE TRAY SUPPORT DETAIL",
+    "page": 1
+  },
+  {
+    "type": "paragraph",
+    "text": "General Contractor: Hoffman Construction Company Project Manager: Nic Wolf Mechanical Contractor: Silicon Valley Mechanical, Inc. Project Manager: Walter Salguero",
+    "page": 1
+  },
+  {
+    "type": "short_text",
+    "text": "408.568.6932",
+    "page": 1
+  },
+  {
+    "type": "paragraph",
+    "text": "wsalguero@svminc.com",
+    "page": 1
+  },
+  {
+    "type": "header",
+    "text": "2115 Ringwood Ave., San Jose, CA 95131",
+    "page": 1
+  },
+  {
+    "type": "paragraph",
+    "text": "408.943.0380 / Lic# 992731",
+    "page": 1
+  },
+  {
+    "type": "drawing_label",
+    "text": "ANCHORAGE ANCHOR : CODE REPORT : HILT| KBTZ2-CS ESR-4266",
+    "page": 2
+  },
+  {
+    "type": "paragraph",
+    "text": "SUPPORT SPEC, IN KBTZ2 1/2x5-1/2",
+    "page": 2
+  },
+  {
+    "type": "short_text",
+    "text": "hef, IN : 31/4 hnom, IN 3 3/4 hhole, IN 41/4",
+    "page": 2
+  },
+  {
+    "type": "drawing_label",
+    "text": "EDGE DISTANCE, 6, MIN.",
+    "page": 2
+  },
+  {
+    "type": "short_text",
+    "text": "50",
+    "page": 2
+  },
+  {
+    "type": "drawing_label",
+    "text": "N MAX INSTALL TORQUE,FT-LB : N CONC. THICKNESS, 6, MIN. SEE ELEV. CONCRETE : 6000 PSI NWC, MIN. *INSTALL PER MANUFACTURER'S REQUIREMENTS / SUPPORT ANCHOR SEE TABLE ' FOR SPECIFICATION.",
+    "page": 2
+  },
+  {
+    "type": "header",
+    "text": "7 MIN. 6000 PSI NWC",
+    "page": 2
+  },
+  {
+    "type": "drawing_label",
+    "text": "| / / CONC BY OTHERS, TYP.",
+    "page": 2
+  },
+  {
+    "type": "header",
+    "text": "4 A \\ gd 6",
+    "page": 2
+  },
+  {
+    "type": "short_text",
+    "text": "6\"MIN. “ 4 re 2",
+    "page": 2
+  },
+  {
+    "type": "drawing_label",
+    "text": "~~~ COUPLER, TYP.",
+    "page": 2
+  },
+  {
+    "type": "short_text",
+    "text": "CABLE my i oO fe) fe) = ¥ \\",
+    "page": 2
+  },
+  {
+    "type": "header",
+    "text": "224 PLF MAX. — SOLID P1001",
+    "page": 2
+  },
+  {
+    "type": "drawing_label",
+    "text": "/ 2\" MIN —= 2' MAX",
+    "page": 2
+  },
+  {
+    "type": "short_text",
+    "text": "/ CABLE TRAY ~ v4",
+    "page": 2
+  },
+  {
+    "type": "drawing_label",
+    "text": "FRONT ELEVATION VIEW GRAVITY SUPPORT - 1 TIER CABLE TRAY 6FT HANGER SPACING - 224 PLF CABLE TRAY 1/2\" A386 ATR SUPPORT ROD.",
+    "page": 2
+  },
+  {
+    "type": "short_text",
+    "text": "07/24/2025",
+    "page": 2
+  },
+  {
+    "type": "drawing_label",
+    "text": "ANCHORAGE ANCHOR : CODE REPORT : HILT| KBTZ2-CS ESR-4266",
+    "page": 2
+  },
+  {
+    "type": "paragraph",
+    "text": "SUPPORT SPEC, IN KBTZ2 5/8x6",
+    "page": 2
+  },
+  {
+    "type": "short_text",
+    "text": "hef, IN 4 hnom, IN : 41/2 hhole, IN 4 3/4",
+    "page": 2
+  },
+  {
+    "type": "drawing_label",
+    "text": "EDGE DISTANCE, IN 6, MIN. MAX INSTALL TORQUE,FT-LB : 40 N CONC. THICKNESS, 6, MIN. SEE ELEV. CONCRETE : 6000 PSI NWC, MIN. *INSTALL PER MANUFACTURER'S REQUIREMENTS / SUPPORT ANCHOR SEE TABLE FOR SPECIFICATION. 7 — MIN. 6000 PSI NWC CABLE TRAY | / / CONC BY OTHERS, TYP.",
+    "page": 2
+  },
+  {
+    "type": "header",
+    "text": "4 A \\ f gd 6",
+    "page": 2
+  },
+  {
+    "type": "paragraph",
+    "text": "6\"MIN. <\\ . 4 yt , a ; oN",
+    "page": 2
+  },
+  {
+    "type": "drawing_label",
+    "text": "~~ COUPLER, TYP.",
+    "page": 2
+  },
+  {
+    "type": "short_text",
+    "text": "a ; Ly.",
+    "page": 2
+  },
+  {
+    "type": "drawing_label",
+    "text": "| 224 PLF MAX. —~ SOLID P1001, TYP. CABLE TRAY",
+    "page": 2
+  },
+  {
+    "type": "short_text",
+    "text": "E - é",
+    "page": 2
+  },
+  {
+    "type": "header",
+    "text": "224 PLF MAX.",
+    "page": 2
+  },
+  {
+    "type": "drawing_label",
+    "text": "2\"°MIN— = 2' MAX _ PLAN VIEW FRONT ELEVATION VIEW 2) GRAVITY SUPPORT - 2 TIER CABLE TRAY",
+    "page": 2
+  },
+  {
+    "type": "paragraph",
+    "text": "cr) 6FT HANGER SPACING - 448 COMBINED PLF CABLE TRAY",
+    "page": 2
+  },
+  {
+    "type": "drawing_label",
+    "text": "5/8\" A386. ATR SUPPORT ROD.",
+    "page": 2
+  },
+  {
+    "type": "short_text",
+    "text": "07/24/2025",
+    "page": 2
+  },
+  {
+    "type": "drawing_label",
+    "text": "ANCHORAGE TRAPEZE SUPPORT SCHEDULE",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "ANCHOR : HILTI KBTZ2-CS SUPPORT TYPE TRAPEZE SPACING CABLE KIT",
+    "page": 3
+  },
+  {
+    "type": "drawing_label",
+    "text": "CODE REPORT: ESR-4266 GRAVITY : P1001 6FT .",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "BRACE SPEC, IN KBTZ2 4/2x5-1/2",
+    "page": 3
+  },
+  {
+    "type": "drawing_label",
+    "text": "TRANSVERSE BRACE : P1001 12 FT 1/2 KIT (2 PARTS)",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "SUPPORT SPEC, IN KBTZ2 1/2x5-1/2 IKI PARTS) het IN: 3 44 LONGITUDINAL BRACE : P1001 12 FT HO OS 02K hnom, IN 3 3/4 TRANSVERSE-LONGITUDINAL BRACE : P1001 12 FT 1 Now oo ne 07/24/2025 hhole, IN 4114 * XX = CABLE LENGTH, TO BE DETERMINED BY FIELD. XX CAN BE 40FT, 15FT, 20FT.",
+    "page": 3
+  },
+  {
+    "type": "drawing_label",
+    "text": "EDGE DISTANCE, IN 6, MIN. MAX INSTALL TORQUE,FT-LB : 50",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "CONC. THICKNESS, IN 6\" MIN. SEE ELEV. / Oe TARE OR SUPPORT ANCHOR SEE TABLE CONCRETE : 6000 PS! NWC, MIN. / SPECIFICATION FOR SPECIFICATION.",
+    "page": 3
+  },
+  {
+    "type": "drawing_label",
+    "text": "/ MIN. 6000 PSI NWC",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "*INSTALL PER MANUFACTURER'S REQUIREMENTS / J CONC BY OTHERS. TYP.",
+    "page": 3
+  },
+  {
+    "type": "short_text",
+    "text": "' ; \" ia 4 < 4 g 4 6\" MIN. \\ eg tae, \\",
+    "page": 3
+  },
+  {
+    "type": "drawing_label",
+    "text": "CABLE TRAY BY OTHERS \\ COUPLER, ~~ \\ JS TYP. A",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "ISAT STEEL CABLE KIT — a SEE TABLE ABOVE FOR SPEC = Lhe Fph ; 1-5/8x1-5/8 12GA SOLID STRUT A",
+    "page": 3
+  },
+  {
+    "type": "drawing_label",
+    "text": "2 90° WIMIN. (3) RO-1 224 PLF MAX. ~~ SEE TABLE FOR TRAPEZE ROD STIFFENERS SUPPORT J SEE ISAT DETAIL G1 FOR SPACING \\ ISAT STEEL _—~ . 4/2\" A386 ATR SUPPORT ROD. CABLE KIT ~ 2\" MIN —> 2' MAX SEE ISAT DETAIL G1 & 1/RS FOR SEE TABLE MAX UNSTIFFENED LENGTH ABOVE FOR SPEC PLAN VIEW FRONT ELEVATION VIEW",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "(3 \\ SINGLE CABLE TRAY SUPPORT - SPLAYED TRANSVERSE-LONGITUDINAL BRACE",
+    "page": 3
+  },
+  {
+    "type": "drawing_label",
+    "text": "\\ CT J ANCHORAGE TRAPEZE SUPPORT SCHEDULE",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "ANCHOR: HILTI KBTZ2-CS SUPPORT TYPE TRAPEZE SPACING CABLE KIT",
+    "page": 3
+  },
+  {
+    "type": "drawing_label",
+    "text": "CODE REPORT | ESR-4266 GRAVITY : P1001 OFT \" 1/2 KIT (2 PARTS",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "BRACE SPEC, IN: KBTZ2 1/2x5-1/2 TRANSVERSE BRACE : P1001 12FT Ho-05-02.%%",
+    "page": 3
+  },
+  {
+    "type": "drawing_label",
+    "text": "1/2 KIT (2 PARTS)",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "SUPPORT SPEC, IN: KBTZ2 5/8x6 LONGITUDINAL BRACE : P1001 12FT HC-03-02-XX hef, IN 31/4 4 TRANSVERSE-LONGITUDINAL BRACE : P1001 12 FT Beane 07/24/2025 hnom, IN : 3 3/4 4112 * XX = CABLE LENGTH, TO BE DETERMINED BY FIELD. XX CAN BE 10FT, 15FT, 20FT. hhole, IN :) 4114 43/4 BRACE ANCHOR / SUPPORT ANCHOR SEE TABLE MAX INSTALL TORQUE,FT-LB : 50 40 SEE TABLE FOR / FOR SPECIFICATION.",
+    "page": 3
+  },
+  {
+    "type": "drawing_label",
+    "text": "SPECIFICATION. / MIN. 6000 PSI NWC CONC. THICKNESS, IN: \"MIN. S . / /",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "Gt MIN. SEE ELEV , / / CONC BY OTHERS, TYP. CONCRETE: 6000 PSI NWC, MIN. aa r a *INSTALL PER MANUFACTURER'S REQUIREMENTS 6\" MIN. N : rr a ape . ; _ i",
+    "page": 3
+  },
+  {
+    "type": "drawing_label",
+    "text": "COUPLER,",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "CABLE TRAY BY OTHERS TYP. i \\ i 5/8\" A386. ATR SUPPORT ROD. \\ —_ TAN sOvE ran epee tl 4 vA Les LZ” SEE ISAT DETAIL G1 & 1/RS FOR Hl E MAX UNSTIFFENED LENGTH",
+    "page": 3
+  },
+  {
+    "type": "short_text",
+    "text": "| 224 PLF MAX. i",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "Co) [ene fe) 90° / i",
+    "page": 3
+  },
+  {
+    "type": "short_text",
+    "text": "|",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "ISAT STEEL — 1-5/8x1-5/8 12GA SOLID STRUT ~ QI : CABLE KIT W/MIN. (3) RC-1 ; El SEE TABLE ROD STIFFENERS i ' ' \\",
+    "page": 3
+  },
+  {
+    "type": "drawing_label",
+    "text": "ABOVE FOR SPEC °> SEE ISAT DETAIL G1 FOR SPACING ¥ 4 \\ J 224 PLF MAX. — SEE TABLE FOR TRAPEZE 6 ° 2\" MIN —> 2' MAX SUPPORT PLAN VIEW FRONT ELEVATION VIEW",
+    "page": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "Cay DOUBLE CABLE TRAY SUPPORT - SPLAYED TRANSVERSE-LONGITUDINAL BRACE",
+    "page": 3
+  },
+  {
+    "type": "short_text",
+    "text": "¢ Innovation e Engineering e BIM e Fabrication",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "TOTAL SUPPORT ISAT \"LC\" SEISMIC CABLE ASSEMBLY",
+    "page": 4
+  },
+  {
+    "type": "paragraph",
+    "text": "Sr ISAT AB45 STRUCTURAL",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "ATTACHMENT BRACKET",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "ae FACTORY CRIMPED",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "SWAGE FITTING ISAT 1/8\" DIA. GALVANIZED STEEL CABLE. MANUFACTURED TO ASTM A1023.",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "mS ISAT WEDGY23",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "SEISMIC FASTENER ISAT S360R ROD CAPTURE BRACKET",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Each Kit Contains",
+    "page": 4
+  },
+  {
+    "type": "header",
+    "text": "4 Seismic",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Brace Arms",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "ISAT \"HC\" SEISMIC CABLE ASSEMBLY ISAT AB45 (DUAL) STRUCTURAL ATTACHMENT BRACKETS FACTORY CRIMPED SWAGE FITTING ISAT 3/16\" DIA. GALVANIZED STEEL CABLE. MANUFACTURED",
+    "page": 4
+  },
+  {
+    "type": "paragraph",
+    "text": "TO ASTM A1023. Each Kit",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Contains",
+    "page": 4
+  },
+  {
+    "type": "header",
+    "text": "4 Seismic",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Brace Arms",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "ISAT WEDGY45 SEISMIC FASTENER ISAT HBK ROD CAPTURE BRACKET",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Tested to FM1950",
+    "page": 4
+  },
+  {
+    "type": "paragraph",
+    "text": "Complies with International Building Code and ASCE-7 Requirements OPM Pre-Approved for OSHPD/HCAI Projects Brackets Constructed of A36 Low Carbon Steel Finish: ASTMB633 SC3-Type II Zinc Coating Rated for “Severe” Service Conditions Wedgy Patented Design (PATENT NO. D737,134)",
+    "page": 4
+  },
+  {
+    "type": "header",
+    "text": "14848 Northam St.",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "La Mirada, CA 90638",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "TOTAL SUPPORT",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Cable Type/Size",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "LC",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "(1/8\" Cable Dia.) Assembly Capacity: 828 |bf",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "(LRFD)",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Cable Type/Size",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "HC",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "(3/16\" Cable Dia.) Assembly Capacity: 1,585 Ibf",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "(LRFD)",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Part Numbers Structural Attachment Size (in.) Seismic Kit ID",
+    "page": 4
+  },
+  {
+    "type": "paragraph",
+    "text": "(each kit contains 4",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "brace arm",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "LC-01-01-\"L\" LC-01-02-\"L\"",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Lc-01-03-\"L\" Lc-01-04-\"L\"",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "LC-02-01-\"L\"",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Lic-02-02-\"L\"",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "LC-02-03-\"L\" LC-02-04-\"L\" LC-03-01-\"L\" LC-03-02-\"L\" LC-03-03-\"L\" LC-03-04-\"L\"",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Lc-04-01-\"L\"",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "LC-04-02-\"L\" LC-04-03-\"L\" LC-04-04-\"L",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "iii",
+    "page": 4
+  },
+  {
+    "type": "paragraph",
+    "text": "Note: Specified Load and Resistance Factor Design Strength (LRFD) does not correspond to the component or system weight being braced. Please refer to the specific engineering documentation for appropiate ISAT Seismic restraint kit selection.",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Structural Attachment Size",
+    "page": 4
+  },
+  {
+    "type": "paragraph",
+    "text": "Note: Specified Load and Resistance Factor Design",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Seismic Kit ID (each kit contains brace arm 4 asse Hc-01-01-\"L\"",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "HC-01-02-\"L\"",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "c-01-03-\"L\"",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "C-01-04-\"L\" C-02-01-\"L\" C-02-02-\"L\" C-02-03-\"L\" ¢-02-04-\"L\"",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "¢c-03-01-\"L\"",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "C-03-02-\"L\" C-03-03-\"L\"",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Hc-03-04-\"L\"",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "HC-04-01-\"L\" HC-04-02-\"L\" HC-04-03-\"L\"",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Hc-04-04-\".\" xcjrt ae eee eee : x r",
+    "page": 4
+  },
+  {
+    "type": "paragraph",
+    "text": "Strength (LRFD) does not correspond to the component or system weight being braced. Please refer to the specific engineering documentation for appropiate ISAT Seismic restraint kit selection.",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "EXAMPLE CODE: LC-01-02-10",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "1/8\" Cable",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "HC",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "3/16\" Cable",
+    "page": 4
+  },
+  {
+    "type": "paragraph",
+    "text": "Toll Free: 877.999.4728",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "714.994.6353 Office: Attachment Size",
+    "page": 4
+  },
+  {
+    "type": "paragraph",
+    "text": "| -01=3/8\" | 0o1=3/8\" J 10 |",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "02 =1/2\" 03 =5/8\" 03 =5/8\"",
+    "page": 4
+  },
+  {
+    "type": "drawing_label",
+    "text": "P04 =3/4\" 04 =3/4\"",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "Cable Length ft services@ISATts.com www.|SATts.com",
+    "page": 4
+  },
+  {
+    "type": "short_text",
+    "text": "¢ Innovation e Engineering",
+    "page": 5
+  },
+  {
+    "type": "drawing_label",
+    "text": "¢ BIM",
+    "page": 5
+  },
+  {
+    "type": "paragraph",
+    "text": "TOTAL SUPPORT _ :Fabrication Part Numbers",
+    "page": 5
+  },
+  {
+    "type": "drawing_label",
+    "text": "ISAT $360R - ROD CAPTURE BRACKET",
+    "page": 5
+  },
+  {
+    "type": "short_text",
+    "text": "al",
+    "page": 5
+  },
+  {
+    "type": "drawing_label",
+    "text": "TOP VIEW FRONT VIEW | DIMENSION,",
+    "page": 5
+  },
+  {
+    "type": "short_text",
+    "text": "PART # A \"Br \"cr se rey Sas",
+    "page": 5
+  },
+  {
+    "type": "paragraph",
+    "text": "| $360R38 | | 3a 3\" oat 41 | 0.360 | 360 | 2.875 | 875",
+    "page": 5
+  },
+  {
+    "type": "drawing_label",
+    "text": "ISAT HBK- ROD CAPTURE BRACKET",
+    "page": 5
+  },
+  {
+    "type": "short_text",
+    "text": "| 0 y nikal Sad Jn,",
+    "page": 5
+  },
+  {
+    "type": "drawing_label",
+    "text": "DIMENSION (IN.)",
+    "page": 5
+  },
+  {
+    "type": "short_text",
+    "text": "PART # in pe [= [oe fo C A ] a B",
+    "page": 5
+  },
+  {
+    "type": "drawing_label",
+    "text": "TOP VIEW FRONT VIEW ISAT AB45 STRUCTURAL ATTACHMENT BRACKET 126A",
+    "page": 5
+  },
+  {
+    "type": "short_text",
+    "text": "x/2 gf 4 X Diameter K Rod or Bolt 5/16\" {in)\" t",
+    "page": 5
+  },
+  {
+    "type": "paragraph",
+    "text": "1/2 or 5/8 — 1/4 | AB451258 3/4 or 7/8 11/2 | AB453478",
+    "page": 5
+  },
+  {
+    "type": "short_text",
+    "text": "a",
+    "page": 5
+  },
+  {
+    "type": "drawing_label",
+    "text": "ISAT WEDGY DEVICE SEISMIC CABLE BRACKET",
+    "page": 5
+  },
+  {
+    "type": "short_text",
+    "text": "[rants [Cameo | eee",
+    "page": 5
+  },
+  {
+    "type": "header",
+    "text": "14848 Northam St. Toll Free: 877.999.4728 services@ISATts.com",
+    "page": 5
+  },
+  {
+    "type": "paragraph",
+    "text": "La Mirada, CA 90638 Office: 714.994.6353 www.|SATts.com",
+    "page": 5
+  },
+  {
+    "type": "drawing_label",
+    "text": "TOTAL SUPPORT",
+    "page": 5
+  },
+  {
+    "type": "drawing_label",
+    "text": "BOTTOM OF ROD COUPLER, HEX NUT, OR DECK INSERT (T & B) STRUCTURE ANNAN AANA REFER TO G SERIES BY MAX PAGES FOR RC-1 ROD 1\" MIN. TYP.",
+    "page": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "BUILDING A aA STIFFENER WITH",
+    "page": 6
+  },
+  {
+    "type": "drawing_label",
+    "text": "ATTACHMENT BREAK-AWAY",
+    "page": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "HEX HEAD. SEE ‘i. (7° MIN.",
+    "page": 6
+  },
+  {
+    "type": "drawing_label",
+    "text": "BELOW. DIM \"AN\" 2' MAX. [ \"MIN. CONTINUOUS",
+    "page": 6
+  },
+  {
+    "type": "short_text",
+    "text": "é/",
+    "page": 6
+  },
+  {
+    "type": "drawing_label",
+    "text": "DETAIL AT MULTI-TIERED TRAPEZE SYSTEMS",
+    "page": 6
+  },
+  {
+    "type": "short_text",
+    "text": "Qi",
+    "page": 6
+  },
+  {
+    "type": "drawing_label",
+    "text": "INN",
+    "page": 6
+  },
+  {
+    "type": "short_text",
+    "text": "<<",
+    "page": 6
+  },
+  {
+    "type": "drawing_label",
+    "text": "NG",
+    "page": 6
+  },
+  {
+    "type": "short_text",
+    "text": "\\ ooN\\",
+    "page": 6
+  },
+  {
+    "type": "drawing_label",
+    "text": "N NS 2 RC-1 ROD STIFFENER WITH RC-2 ROD STIEEENER BREAK-AWAY HEX HEAD (TYP)",
+    "page": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "Rod Stiffener Chart 3/8' THRU 5/8\" DIA. ROD 5/8\" THRU",
+    "page": 6
+  },
+  {
+    "type": "short_text",
+    "text": "Dim. B 1\" DIA. ROD Dim. A Maximum Maximum",
+    "page": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "Threaded Rod| Maximum Rod ‘“ = ss x\" se",
+    "page": 6
+  },
+  {
+    "type": "short_text",
+    "text": "Spacing Compressive =",
+    "page": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "Diameter (in.) Length without Setumen tind | fare tbe! = N RC-2.1 ROD STIFFENER",
+    "page": 6
+  },
+  {
+    "type": "short_text",
+    "text": "Stiffener (in.)",
+    "page": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "Stiffeners (in.) 5/8\" THRU",
+    "page": 6
+  },
+  {
+    "type": "drawing_label",
+    "text": "1\" DIA. ROD",
+    "page": 6
+  },
+  {
+    "type": "short_text",
+    "text": "wanaanaee",
+    "page": 6
+  },
+  {
+    "type": "drawing_label",
+    "text": "OOOO SS",
+    "page": 6
+  },
+  {
+    "type": "short_text",
+    "text": "4 ‘ y y y y ( 6 .",
+    "page": 6
+  },
+  {
+    "type": "drawing_label",
+    "text": "N N N N PLATE* AT B2 STRUT ONLY",
+    "page": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "1 5/8\" x 1 5/8\" x 12 GA. RC-2: Bi STRUT 1 5/8\" x 1 5/8'x 12 GA. SOLID OR SOLID OR SLOTTED x 12'-0\" MAX. SLOTTED x 10'-6\" MAX. 1 6/8\" x 1 5/8\" x 12 GA. RC-2.1: B2 STRUT 1 5/8'x 1 5/8' x 12 GA. SOLID SOLID BACK-TO-BACK x 14-0\" MAX. BACK-TO-BACK x 15-0\" MAX. (AS SHOWN) ROD STIFFENING REQUIRED ONLY FOR HANGER RODS TO WHICH SEISMIC BRACING HAS BEEN INSTALLED OR WITHIN 12\" OF DIAGONAL",
+    "page": 6
+  },
+  {
+    "type": "drawing_label",
+    "text": "COMPONENT OF THE BRACING SYSTEM.",
+    "page": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "TIGHTEN RO-1 STIFFENER NUT TO FINGER TIGHT THEN WRENCH TIGHT TILL HEX HEAD BREAKS OFF (2 FULL TURNS, 35 FT-LBS APPROXIMATE). ROD STIFFENERS MAY BE ELIMINATED WHERE TWO RIGID BRACES ARE ATTACHED TO THE SAME ROD AND ARE 180 DEGREES OPPOSED TO ONE",
+    "page": 6
+  },
+  {
+    "type": "drawing_label",
+    "text": "ANOTHER.",
+    "page": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "PLATE NOT REQUIRED WHEN THREADED ROD DIAMETER IS GREATER THAN 1\". MINIMUM OF (3) STIFFENER CLIPS REQUIRED PER ASSEMBLY AS DEPICTED IN DETAIL ABOVE. STIFFENER CLIPS TO BE EQUALLY SPACED (+1').",
+    "page": 6
+  },
+  {
+    "type": "drawing_label",
+    "text": "ROD STIFFENING REQUIREMENTS",
+    "page": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "International Seismic CODES DATE: Application Technology APPLIES TO ALL 02/04/21",
+    "page": 6
+  },
+  {
+    "type": "header",
+    "text": "14848 Northam Street, CODES",
+    "page": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "La Mirada, CA 90638 PAGE: 877-999-4728 (Toll Free) TOTAL SUPPORT 714-523-0845 (fax) G1 A Division of Tomarco Contractor Specialties www.isatsb.com",
+    "page": 6
+  },
+  {
+    "type": "drawing_label",
+    "text": "ICC EVALUATION SERVICE”",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "ICC-ES Evaluation Report Crs craits",
+    "page": 7
+  },
+  {
+    "type": "drawing_label",
+    "text": "ESR-4266",
+    "page": 7
+  },
+  {
+    "type": "short_text",
+    "text": "oi",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "www.icc-es.org | (800) 423-6587 | (562) 699-0543 Reissued December 2021",
+    "page": 7
+  },
+  {
+    "type": "short_text",
+    "text": "Revised May 2023.",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "This report is subject to renewal December 2023. A Subsidiary of the International Code Council®",
+    "page": 7
+  },
+  {
+    "type": "drawing_label",
+    "text": "DIVISION: 03 00 OO—CONCRETE",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "Section: 03 16 00—Concrete Anchors",
+    "page": 7
+  },
+  {
+    "type": "drawing_label",
+    "text": "DIVISION: 05 00 00O—METALS",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "Section: 05 05 19—Post-Installed Concrete Anchors",
+    "page": 7
+  },
+  {
+    "type": "drawing_label",
+    "text": "REPORT HOLDER: HILTI, INC. EVALUATION SUBJECT: HILT! KWIK BOLT TZ2 CARBON AND STAINLESS STEEL ANCHORS IN CRACKED AND UNCRACKED CONCRETE",
+    "page": 7
+  },
+  {
+    "type": "header",
+    "text": "1.0 EVALUATION SCOPE",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "Compliance with the following codes: @ 2021, 2018 and 2015 International Building Code® (IBC) @ 2021, 2018 and 2015 International Residential Code®",
+    "page": 7
+  },
+  {
+    "type": "drawing_label",
+    "text": "(IRC)",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "For evaluation for compliance with the National Building Code of Canada® (NBCC), see listing report ELC-4266. For evaluation for compliance with codes adopted by the Los Angeles Department of Building and Safety (LADBS), see ESR-4266 LABC and LARC Supplement.",
+    "page": 7
+  },
+  {
+    "type": "short_text",
+    "text": "Property evaluated: Structural",
+    "page": 7
+  },
+  {
+    "type": "header",
+    "text": "2.0 USES",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "The Hilti Kwik Bolt TZ2 anchor (KB-TZ2) is used as anchorage to resist static, wind, and seismic (Seismic Design Categories A through F) tension and shear loads in cracked and uncracked normal-weight concrete and lightweight concrete having a_ specified compressive",
+    "page": 7
+  },
+  {
+    "type": "table_row",
+    "text": "strength, ’, Of 2,500 psi to 8,500 psi (17.2 MPa to 58.6 MPa). The ‘/4-inch-, °/s-inch- and ‘/2-inch diameter (6.4 mm, 9.5mm and 12.7 mm) carbon steel KB-TZ2 anchors may be",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "installed in the topside of cracked and uncracked normal- weight or sand-lightweight concrete over metal deck having a minimum member thickness, hmin,deck, as noted in Table 9 of this evaluation report and a specified compressive",
+    "page": 7
+  },
+  {
+    "type": "table_row",
+    "text": "strength, fc, of 3,000 psi to 8,500 psi (20.7 MPa to",
+    "page": 7
+  },
+  {
+    "type": "header",
+    "text": "58.6 MPa)",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "The ‘/4-inch-, °/s-inch-, ‘/2-inch-, °/s-inch- and 3/4-inch",
+    "page": 7
+  },
+  {
+    "type": "table_row",
+    "text": "diameter (6.4 mm, 9.5 mm, 12.7 mm, 15.9 mm and 19.1 mm) carbon steel KB-TZ2 anchors may be installed in",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "the soffit of cracked and uncracked normal-weight or sand-lightweight concrete over metal deck having a",
+    "page": 7
+  },
+  {
+    "type": "table_row",
+    "text": "minimum specified compressive strength, f'c, of 3,000 psi (20.7 MPa).",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "The anchoring system complies with anchors as described in Section 1901.3 of the 2021, 2018 and 2015 IBC. The anchors may also be used where an engineered design is submitted in accordance with Section R301.1.3 of",
+    "page": 7
+  },
+  {
+    "type": "short_text",
+    "text": "the IRC.",
+    "page": 7
+  },
+  {
+    "type": "header",
+    "text": "3.0 DESCRIPTION 3.1 KB-TZ2:",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "KB-TZ2 anchors are torque-controlled, mechanical expansion anchors. KB-TZ2 anchors consist of a stud (anchor body), wedge (expansion elements), nut, and washer. The anchor (carbon steel version) is illustrated in Figure 1. The stud is manufactured from carbon steel or AISI Type 304 or Type 316 stainless steel materials. Carbon",
+    "page": 7
+  },
+  {
+    "type": "table_row",
+    "text": "steel KB-TZ2 anchors have a minimum 5 um (0.0002 inch)",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "zinc-nickel plating. The expansion elements for the carbon steel KB-TZ2 anchors are fabricated from carbon steel or stainless steel. The expansion elements for the stainless steel KB-TZ2 anchors are fabricated from stainless steel. The hex nut for carbon steel conforms to ASTM A563-04, Grade A, and the hex nut for stainless steel conforms to",
+    "page": 7
+  },
+  {
+    "type": "drawing_label",
+    "text": "ASTM F594.",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "The anchor body is comprised of a high-strength rod threaded at one end and a tapered mandrel at the other end. The tapered mandrel is enclosed by a _ three-section expansion element. The expansion element movement is restrained by the mandrel taper and by a collar. The anchor is installed in a predrilled hole with a hammer. When torque is applied to the nut of the installed anchor, the mandrel is drawn into the expansion element, which is in turn expanded against the wall of the drilled hole.",
+    "page": 7
+  },
+  {
+    "type": "header",
+    "text": "3.2 Concrete:",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "Normal-weight and lightweight concrete must conform to Sections 1903 and 1905 of the IBC.",
+    "page": 7
+  },
+  {
+    "type": "header",
+    "text": "3.3 Steel Deck Panels:",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "Steel deck panels must be in accordance with the configuration in Figure 5A, Figure 5B, Figure 5C and Figure",
+    "page": 7
+  },
+  {
+    "type": "table_row",
+    "text": "5D and have a minimum base steel thickness of 0.035 inch (0.899 mm, 20 gauge). Steel must comply with ASTM",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "A653/A653M SS Grade 33 and have a minimum yield",
+    "page": 7
+  },
+  {
+    "type": "table_row",
+    "text": "strength of 33,000 psi (228 MPa).",
+    "page": 7
+  },
+  {
+    "type": "header",
+    "text": "4.0 DESIGN AND INSTALLATION 4.1 Strength Design: 4.1.1 General: Design strength of anchors complying with",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "the 2021 IBC, as well as Section R301.1.3 of the 2021 IRC must be determined in accordance with ACI 318-19 Chapter",
+    "page": 7
+  },
+  {
+    "type": "short_text",
+    "text": "17 and this report.",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "ICC-ES Evaluation Reports are not to be construed as representing aesthetics or any other attributes not specifically addressed, nor are they to be construed ~N ‘ as an endorsement of the subject of the report or a recommendation for its use. There is no warranty by ICC Evaluation Service, LLC, express or implied, as Waw to any finding or other matter in this report, or as to any product covered by the report. Copyright © 2023 ICC Evaluation Service, LLC. All rights reserved.",
+    "page": 7
+  },
+  {
+    "type": "drawing_label",
+    "text": "ACCREDITED",
+    "page": 7
+  },
+  {
+    "type": "short_text",
+    "text": "1 hn ———",
+    "page": 7
+  },
+  {
+    "type": "drawing_label",
+    "text": "INTERNATIONAL PRODUCT CERTIFICATY 10N",
+    "page": 7
+  },
+  {
+    "type": "short_text",
+    "text": "CODE COUNCIL oor Page 1 of 16",
+    "page": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "ESR-4266 | Most Widely Accepted and Trusted Design strength of anchors complying with the 2018 and",
+    "page": 8
+  },
+  {
+    "type": "header",
+    "text": "2015 IBC, as well as Section R301.1.3 of the 2018 and 2015",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "IRC must be determined in accordance with ACI 318-14 Chapter 17 and this report. Design parameters provided in Table 4, Table 5, Table 6 and Table 7 of this report are based on the 2021 IBC (ACI 318-19), and 2018 and 2015 IBC (ACI 318-14) unless noted otherwise in Sections 4.1.1 through 4.1.12. The strength design of anchors must comply with ACI 318-19 17.5.1.2 or ACI 318-14 17.3.1, as applicable, except as required in ACI 318-19 17.10 or ACI 318-14 17.2.3, as applicable. Strength reduction factors, ¢ as given in ACI 318-19 17.5.3 or ACI 318-14 17.3.3, as applicable, and noted in Table 4, Table 5, Table 6, and Table 7 of this report, must be used for load combinations calculated in accordance with Section 1605.1 of the 2021 IBC or Section 1605.2 of the 2018 and 2015 IBC and Section 5.3 of ACI 318 (-19 and -14), as applicable. The value of fc used in the calculations",
+    "page": 8
+  },
+  {
+    "type": "table_row",
+    "text": "must be limited to a maximum of 8,000 psi (55.2 MPa), in",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "accordance with ACI 318-19 17.3.1 or ACI 318-14 17.2.7 ,",
+    "page": 8
+  },
+  {
+    "type": "short_text",
+    "text": "as applicable.",
+    "page": 8
+  },
+  {
+    "type": "header",
+    "text": "4.1.2 Requirements for Static Steel Strength in",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "Tension: The nominal static steel strength, Nsa, of a single anchor in tension must be calculated in accordance with ACI 318-19 17.6.1.2 or ACI 318-14 17.4.1.2, as applicable. The resulting Nsa values are provided in Table 4 and Table 5 of this report. Strength reduction factors ¢ corresponding to ductile steel elements may be used.",
+    "page": 8
+  },
+  {
+    "type": "header",
+    "text": "4.1.3 Requirements for Static Concrete Breakout",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "Strength in Tension: The nominal concrete breakout strength of a single anchor or group of anchors in tension, Ncb or Nebg, respectively, must be calculated in accordance with ACI 318-19 17.6.2 or ACI 318-14 17.4.2, as applicable, with modifications as described in this section. The basic concrete breakout strength in tension, Nv, must be calculated in accordance with ACI 318-19 17.6.2.2 or ACI 318-14 17.4.2.2, as applicable, using the values of her and Kcr aS given in Table 4 and Table 5. The nominal concrete breakout strength in tension in regions where analysis indicates no cracking in accordance with ACI 318-19 17.6.2.5.1 or ACI 318-14 17.4.2.6, as applicable, must be calculated with kuncr as given in Table 4 and Table 5 and with",
+    "page": 8
+  },
+  {
+    "type": "short_text",
+    "text": "Won = 1.0.",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "For carbon steel KB-TZ2 anchors installed in the soffit of sand-lightweight or normal-weight concrete on steel deck floor and roof assemblies, as shown in Figure 5A, Figure 5B and Figure 5C, calculation of the concrete breakout strength",
+    "page": 8
+  },
+  {
+    "type": "short_text",
+    "text": "is not required.",
+    "page": 8
+  },
+  {
+    "type": "header",
+    "text": "4.1.4 Requirements for Static Pullout Strength in",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "Tension: The nominal pullout strength of a single anchor in accordance with ACI 318-19 17.6.3.1 and 17.6.3.2.1 or ACI 318-14 17.4.3.1 and 17.4.3.2, respectively, as applicable, in cracked and uncracked concrete, Np,cr and Ner, Np,uner and Nuncr, respectively, are given in Table 4 and Table 5. For all design cases Wop = 1.0. In accordance with ACI 318-19 17.6.3 or ACI 318-14 17.4.3, as applicable, the nominal pullout strength in cracked concrete may be calculated in accordance with the following equation:",
+    "page": 8
+  },
+  {
+    "type": "short_text",
+    "text": "(Ib, psi) (Eq-1) N Nn, (-\\\"\" D.fe — *“p.cr (<) Ul",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "Noupt = Noser (8 y° (N, MPa)",
+    "page": 8
+  },
+  {
+    "type": "short_text",
+    "text": "17.2",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "In regions where analysis indicates no cracking in accordance with ACI 318-19 17.6.3.3 or ACI 318-14 17.4.3.6, as applicable, the nominal pullout strength in tension may be calculated in accordance with the following",
+    "page": 8
+  },
+  {
+    "type": "short_text",
+    "text": "equation: Page 2 of 16 y ti Nuncr .",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "Noi = Np,uner (<) (Ib, psi) (Eq-2)",
+    "page": 8
+  },
+  {
+    "type": "short_text",
+    "text": "_ fi Nuncr",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "No! — Np uner (5) (N, MPa) Where values for Np,cr Or Np,uncr are not provided in Table 4 or Table 5, the pullout strength in tension need not be",
+    "page": 8
+  },
+  {
+    "type": "short_text",
+    "text": "evaluated.",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "The nominal pullout strength in cracked concrete of the carbon steel KB-TZ2 installed in the soffit of sand-lightweight or normal-weight concrete on steel deck floor and roof assemblies, as shown in Figure 5A, Figure 5B and Figure 5C, is given in Table 8. In accordance with ACI 318-19 17.6.3.2.1 or ACI 318-14 17.4.3.2, as applicable, the nominal pullout strength in cracked concrete must be calculated in accordance with Eq-1, whereby the value of Np,deck,er Must be substituted for Np,cr and the value of 3,000",
+    "page": 8
+  },
+  {
+    "type": "table_row",
+    "text": "psi (20.7 MPa) must be substituted for the value of 2,500 psi (17.2 MPa) in the denominator. In regions where analysis",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "indicates no cracking in accordance with ACI 318-19 17.6.3.3 or ACI 318-14 17.4.3.6, as applicable, the nominal strength in uncracked concrete must be _ calculated according to Eq-2, whereby the value of Np,deck,uner Must be",
+    "page": 8
+  },
+  {
+    "type": "table_row",
+    "text": "substituted for Np,uncrand the value of 3,000 psi (20.7 MPa) must be substituted for the value of 2,500 psi (17.2 MPa) in",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "the denominator. The use of stainless steel KB-TZ2 anchors installed in the soffit of concrete on steel deck assemblies is beyond the scope of this report.",
+    "page": 8
+  },
+  {
+    "type": "header",
+    "text": "4.1.5 Requirements for Static Steel Strength in Shear:",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "The nominal steel strength in shear, Vsa, of a single anchor in accordance with ACI 318-19 17.7.1.2 or ACI 318-14 17.5.1.2, as applicable, is given in Table 6 and Table 7 of this report and must be used in lieu of the values derived by calculation from ACI 318-19 Eq. 17.7.1.2b or ACI 318-14 Eq. 17.5.1.2b, as applicable. The shear strength Vsa,deck Of the carbon-steel KB-TZ2 as governed by steel failure of the KB-TZ2 installed in the soffit of sand-lightweight or normal-weight concrete on steel deck floor and roof assemblies, as shown in Figure 5A, Figure 5B and Figure 5C, is given in Table 8.",
+    "page": 8
+  },
+  {
+    "type": "header",
+    "text": "4.1.6 Requirements for Static Concrete Breakout",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "Strength in Shear: The nominal concrete breakout strength of a single anchor or group of anchors in shear, Vcb or Vebg, respectively, must be calculated in accordance with ACI 318-19 17.7.2 or ACI 318-14 17.5.2, as applicable, with modifications as described in this section. The basic concrete breakout strength, Vs, must be calculated in accordance with ACI 318-19 17.7.2.2.1 or ACI 318-14 17.5.2.2, as applicable, based on the values provided in Table 6 and Table 7. The value of fe used in ACI 318-19 Eq. 17.7.2.2.1a or ACI 318-14 Eq. 17.5.2.2a must be taken as no greater than the lesser of her or 8da. Anchors installed in light-weight concrete must use the reduction factors provided in ACI 318-19 17.2.4 or ACI 318-14 17.2.6, as",
+    "page": 8
+  },
+  {
+    "type": "short_text",
+    "text": "applicable.",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "For carbon steel KB-TZ2 anchors installed in the soffit of sand-lightweight or normal-weight concrete on steel deck floor and roof assemblies, as shown in Figure 5A, Figure 5B and Figure 5C, calculation of the concrete breakout strength in shear is not required.",
+    "page": 8
+  },
+  {
+    "type": "header",
+    "text": "4.1.7 Requirements for Static Concrete Pryout",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "Strength in Shear: The nominal concrete pryout strength of a single anchor or group of anchors, Vecp or Vepg, respectively, must be calculated in accordance with ACI 318-19 17.7.3 or ACI 318-14 17.5.3, as applicable, modified by using the value of Kcp provided in Table 6 and Table 7 of this report and the value of Nc» or Nebg as calculated in Section 4.1.3 of this report.",
+    "page": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "ESR-4266 | Most Widely Accepted and Trusted For carbon steel KB-TZ2 anchors installed in the soffit of sand-lightweight or normal-weight concrete over profile steel deck floor and roof assemblies, as shown in Figure 5A, Figure 5B, and Figure 5C, calculation of the concrete pry-out strength in accordance with ACI 318-19 17.7.3 or ACI 318-14 17.5.3 is not required.",
+    "page": 9
+  },
+  {
+    "type": "header",
+    "text": "4.1.8 Requirements for Seismic Design: 4.1.8.1 General: For load combinations including seismic,",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "the design must be performed in accordance with ACI 318-19 17.10 or ACI 318-14 17.2.3, as applicable. Modifications to AC] 318-14 17.2.3 shall be applied under Section 1905.1.8 of the 2018 and 2015 IBC. The anchors comply with ACI 318 (-19 and -14) 2.3 , as ductile steel elements and must be designed in accordance with ACI 318-19 17.10.5, 17.10.6, 17.10.7 or 17.10.4 or ACI 318-14 17.2.3.4, 17.2.3.5, 17.2.3.6 and 17.2.3.7, as applicable. Strength reduction factors, ¢, are given in Table 4, Table 5, Table 6, and Table 7 of this report. The anchors may be installed in structures assigned to Seismic Design Categories A through F of the IBC.",
+    "page": 9
+  },
+  {
+    "type": "header",
+    "text": "4.1.8.2 Seismic Tension: The nominal steel strength and",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "nominal concrete breakout strength for anchors in tension must be calculated in accordance with ACI 318-19 17.6.1 and 17.6.2 or ACI 318-14 17.4.1 and 17.4.2, as applicable, as described in Sections 4.1.2 and 4.1.3 of this report. In accordance with ACI 318-19 17.6.3.2.1 or ACI 318-14 17.4.3.2, as applicable, the appropriate pullout strength in tension for seismic loads, Np,eq, described in Table 4 and Table 5 or Np,deck,er described in Table 8 must be used in lieu of Np, as applicable. The value of Np,eq or Np,deck,er May be adjusted by calculation for concrete strength in accordance with Eq-1 and Section 4.1.4 whereby the value of Np,deck,cr",
+    "page": 9
+  },
+  {
+    "type": "table_row",
+    "text": "must be substituted for Np cr and the value of 3,000 psi (20.7 MPa) must be substituted for the value of 2,500 psi (17.2 MPa) in the denominator. If no values for Np,eq or",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "Np,deck,eqg are given in Table 4, Table 5, or Table 8, the static design strength values govern. 4.1.8.3. Seismic Shear: The nominal concrete breakout strength and pryout strength in shear must be calculated in accordance with ACI 318-19 17.7.2 and 17.7.3 or ACI 318-14 17.5.2 and 17.5.3, respectively, as applicable, as described in Sections 4.1.6 and 4.1.7 of this report. In accordance with ACI 318-19 17.7.1.2 or ACI 318-14 17.5.1.2, as applicable, the appropriate value for nominal steel strength for seismic loads, Vsa,eq described in Table 6 and Table 7 or Vsa,deck.eq described in Table 8 must be used in lieu of Vsa, as applicable.",
+    "page": 9
+  },
+  {
+    "type": "header",
+    "text": "4.1.9 Requirements for Interaction of Tensile and",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "Shear Forces: For anchors or groups of anchors that are subject to the effects of combined tension and shear forces, the design must be performed in accordance with ACI 318-19 17.8 or ACI 318-14 17.6, as applicable.",
+    "page": 9
+  },
+  {
+    "type": "header",
+    "text": "4.1.10 Requirements for Minimum Member Thickness,",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "Minimum Anchor Spacing and Minimum Edge Distance: In lieu of ACI 318-19 17.9.2 or ACI 318-14 17.7.1 and 17.7.3, respectively, as applicable, values of Smin and Cmin as given in Table 3 of this report must be used. In lieu of ACI 318-19 17.9.4 or ACI 318-14 17.7.5, as applicable, minimum member thicknesses hmin as given in Tables 3 and 4 of this report must be used. Additional combinations for minimum edge distance, Cmin, and spacing, Smin, may be derived by linear interpolation between the given boundary values as described in Figure 4. For carbon steel KB-TZ2 anchors installed in the topside of sand-lightweight or normal-weight concrete over profile steel deck floor and roof assemblies, the anchors must be installed in accordance with Table 9 and Figure 5D.",
+    "page": 9
+  },
+  {
+    "type": "short_text",
+    "text": "Page 3 of 16",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "For carbon steel KB-TZ2 anchors installed in the soffit of sand-lightweight or normal-weight concrete over profile steel deck floor and roof assemblies, the anchors must be installed in accordance with Figure 5A, Figure 5B and Figure 5C and shall have an axial spacing along the flute equal to the greater of 3her or 1.5 times the flute width.",
+    "page": 9
+  },
+  {
+    "type": "header",
+    "text": "4.1.11 Requirements for Critical Edge Distance: In",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "applications where c < Cac and supplemental reinforcement to control splitting of the concrete is not present, the concrete breakout strength in tension for uncracked concrete, calculated in accordance with ACI 318-19 17.6.2 or ACI 318-14 17.4.2, as applicable, must be further multiplied by the factor Yep, as given by Eq-3:",
+    "page": 9
+  },
+  {
+    "type": "short_text",
+    "text": "Cc Pop.n = (Eq-3) Cac",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "whereby the factor Ycp,N need not be taken as less than",
+    "page": 9
+  },
+  {
+    "type": "header",
+    "text": "1 She For all other cases, Yop.v = 1.0. In lieu of using ACI",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "318-19 17.9.5 or ACI 318-14 17.7.6, as applicable, values of Cac must comply with Table 4 or Table 5.",
+    "page": 9
+  },
+  {
+    "type": "header",
+    "text": "4.1.12 Lightweight Concrete: For the use of anchors in",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "lightweight concrete, the modification factor Aa equal to 0.8A is applied to all values of Vi. affecting Nn and Vp. For ACI 318-19 (2021 IBC) or ACI 318-14 (2018 and 2015 IBC), A shall be determined in accordance with the corresponding version of ACI 318. For anchors installed in the soffit of sand-lightweight concrete-filled steel deck and floor and roof assemblies, further reduction of the pullout values provided in this report",
+    "page": 9
+  },
+  {
+    "type": "short_text",
+    "text": "is not required.",
+    "page": 9
+  },
+  {
+    "type": "header",
+    "text": "4.2 Allowable Stress Design (ASD): 4.2.1 General: Design values for use with allowable stress",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "design (working stress design) load combinations calculated in accordance with Section 1605.1 of the 2021 IBC or Section 1605.3 of the 2018 and 2015, must be established as follows: Tallowable,ASD = @N,",
+    "page": 9
+  },
+  {
+    "type": "short_text",
+    "text": "a",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "Vallowable, ASD = @V,",
+    "page": 9
+  },
+  {
+    "type": "short_text",
+    "text": "a where:",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "Allowable tension load (lbf or KN). Allowable shear load (lbf or KN). Lowest design strength of an anchor or anchor group in tension as determined in accordance with ACI 318 (-19 and - 14) Chapter 17 and 2021, 2018 and",
+    "page": 9
+  },
+  {
+    "type": "header",
+    "text": "2015 IBC Section 1905.1.8, and",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "Section 4.1 of this report, as applicable",
+    "page": 9
+  },
+  {
+    "type": "short_text",
+    "text": "(lbf or N).",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "Lowest design strength of an anchor or anchor group in shear as determined in accordance with ACI 318 (-19 and -14) Chapter 17 and 2021, 2018 and",
+    "page": 9
+  },
+  {
+    "type": "header",
+    "text": "2015 IBC Section 1905.1.8, and",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "Section 4.1 of this report, as applicable",
+    "page": 9
+  },
+  {
+    "type": "short_text",
+    "text": "(lbf or N).",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "a = Conversion factor calculated as a weighted average of the load factors for the controlling load combination. In addition, « must include all applicable factors to account for nonductile failure modes and required over-strength.",
+    "page": 9
+  },
+  {
+    "type": "short_text",
+    "text": "Tallowable,ASD = V allowable, ASD = Nn = oVn =",
+    "page": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "ESR-4266 | Most Widely Accepted and Trusted The requirements for member thickness, edge distance and spacing, described in this report, must apply.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "4.2.2 Interaction of Tensile and Shear Forces: The",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "interaction must be calculated and consistent with ACI 318-19 17.8 or ACI 318-14 17.6, as applicable, as follows: For shear loads Vapplied S$ 0.2Valowable,AsD, the full allowable load in tension is permitted. For tension loads Tapplied S$ 0.2 Tallowable,Asp, the full allowable load in shear is permitted. For all other cases: +——aplied _< 49 (Eq-4) Tallowable,ASD Vallowable,ASD",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "4.3 Installation:",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "Installation parameters are provided in Table 1 and Figure 2, Figure 5A, Figure 5B, Figure 5C and Figure 5D. Anchor locations must comply with this report and plans and specifications approved by the code official. The Hilti KB-TZ2 must be installed in accordance with manufacturer's published instructions and this report. In case of conflict, this report governs. Anchors must be installed in holes drilled into the concrete using carbide-tipped masonry drill bits complying with ANSI B212.15-1994, using the Hilti SafeSet System™ with Hilti TE-YD or TE-CD Hollow Drill Bits complying with ANSI B212.15-1994 with a Hilti vacuum in accordance with Figure 6 and Figure 7, or using Hilti SPX-T core bits in accordance with Figure 7. The Hollow Drill Bits are not permitted for use with the ‘/4-inch and 3/s-inch diameter KB-TZ2 anchors. The Hilti SPX-T core bits are not permitted for use with the ‘/4-inch and 1-inch diameter KB- TZ2 anchors. The minimum drilled hole depth, ho, is given in Table 1. lf dust and debris is removed from the drilled hole with the Hilti TE-YD or TE-CD Hollow Drill Bits, the DRS attachment system, or compressed air or a manual pump, hnom is achieved at the specified value of ho noted in Table 1. The anchor must be hammered into the predrilled hole until hnom is achieved. The nut must be tightened against the washer until the torque values specified in Table 1 are achieved, or the anchors may be installed using the appropriate Hilti Impact Wrench and corresponding Hilti AT Module in accordance with Figure 7. The Hilti AT Tool system is not permitted for use with the ‘/4-inch and 1-inch diameter KB-TZ2 anchors. For installation in the soffit of concrete on steel deck assemblies, the hole diameter in the steel deck must not exceed the diameter of the hole in the",
+    "page": 10
+  },
+  {
+    "type": "table_row",
+    "text": "concrete by more than 1'/s inch (3.2 mm). For member",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "thickness and edge distance restrictions for installations into the soffit of concrete on steel deck assemblies, see Figure 5A, Figure 5B, and Figure 5C.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "4.4 Special Inspection:",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "Periodic special inspection is required in accordance with Section 1705.1.1 and Table 1705.3 of the 2021, 2018 and",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "2015 IBC, as applicable. The special inspector must make",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "periodic inspections during anchor installation to verify anchor type, anchor dimensions, concrete type, concrete compressive strength, anchor spacing, edge distances, concrete member thickness, tightening torque, hole dimensions, anchor embedment and adherence to the manufacturer's printed installation instructions. The special inspector must be present as often as required in accordance with the “statement of special inspection.” Under the IBC, additional requirements as set forth in Sections 1705, 1706 and 1707 must be observed, where",
+    "page": 10
+  },
+  {
+    "type": "short_text",
+    "text": "applicable.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.0 CONDITIONS OF USE",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "The Hilti KB-TZ2 anchors described in this report comply with the codes listed in Section 1.0 of this report, subject to the following conditions:",
+    "page": 10
+  },
+  {
+    "type": "short_text",
+    "text": "Tapplied Page 4 of 16",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.1 Anchor sizes, dimensions, minimum embedment",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "depths and other installation parameters as set forth in",
+    "page": 10
+  },
+  {
+    "type": "short_text",
+    "text": "this report.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.2 The anchors must be installed in accordance with the",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "manufacturer's published instructions and this report. In case of conflict, this report governs.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.3 Anchors must be limited to use in cracked and",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "uncracked normal-weight concrete and lightweight concrete having a specified compressive strength, fc,",
+    "page": 10
+  },
+  {
+    "type": "table_row",
+    "text": "of 2,500 psi to 8,500 psi (17.2 MPa to 58.6 MPa), and",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "cracked and uncracked normal-weight — or sand-lightweight concrete over metal deck having a",
+    "page": 10
+  },
+  {
+    "type": "table_row",
+    "text": "specified compressive strength, f'c, of 3,000 psi to 8,500 psi (20.7 MPa to 58.6 MPa).",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.4 The values of f- used for calculation purposes must not",
+    "page": 10
+  },
+  {
+    "type": "table_row",
+    "text": "exceed 8,000 psi (55.1 MPa).",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.5 The concrete shall have attained its minimum design",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "strength prior to installation of the anchors.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.6 Strength design values must be established in",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "accordance with Section 4.1 of this report.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.7 Allowable design values are established in accordance",
+    "page": 10
+  },
+  {
+    "type": "short_text",
+    "text": "with Section 4.2.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.8 Anchor spacing and edge distance as well as minimum",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "member thickness must comply with Tables 3 and 9, and Figure 5A, Figure 5B, Figure 5C and Figure 5D.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.9 Prior to _ installation, calculations and _ details",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "demonstrating compliance with this report must be submitted to the code official. The calculations and details must be prepared by a registered design professional where required by the statutes of the jurisdiction in which the project is to be constructed.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.10 Since an ICC-ES acceptance criteria for evaluating",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "data to determine the performance of expansion anchors subjected to fatigue or shock loading is unavailable at this time, the use of these anchors under such conditions is beyond the scope of this report.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.11 Anchors may be installed in regions of concrete where",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "cracking has occurred or where analysis indicates cracking may occur (ft > fr), subject to the conditions of",
+    "page": 10
+  },
+  {
+    "type": "short_text",
+    "text": "this report.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.12 Anchors may be used to resist short-term loading due",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "to wind or seismic forces in locations designated as Seismic Design Categories A through F of the IBC, subject to the conditions of this report.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.13 Where not otherwise prohibited in the code, KB-TZ2",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "anchors are permitted for use with fire-resistance-rated construction provided that at least one of the following conditions is fulfilled: e Anchors are used to resist wind or seismic forces",
+    "page": 10
+  },
+  {
+    "type": "short_text",
+    "text": "only.",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "e Anchors that support a_ fire-resistance-rated envelope or a fire-resistance-rated membrane are protected by approved fire-resistance-rated materials, or have been evaluated for resistance to fire exposure in accordance with recognized",
+    "page": 10
+  },
+  {
+    "type": "short_text",
+    "text": "standards.",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "e Anchors are used to support nonstructural",
+    "page": 10
+  },
+  {
+    "type": "short_text",
+    "text": "elements.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.14 Use of zinc-coated carbon steel anchors is limited to",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "dry, interior locations.",
+    "page": 10
+  },
+  {
+    "type": "header",
+    "text": "5.15 Use of anchors made of stainless steel as specified in",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "this report are permitted for exterior exposure and",
+    "page": 10
+  },
+  {
+    "type": "short_text",
+    "text": "damp environments.",
+    "page": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "ESR-4266 | Most Widely Accepted and Trusted",
+    "page": 11
+  },
+  {
+    "type": "header",
+    "text": "5.16 Use of anchors made of stainless steel as specified in",
+    "page": 11
+  },
+  {
+    "type": "paragraph",
+    "text": "this report are permitted for contact with preservative- treated and fire-retardant-treated wood.",
+    "page": 11
+  },
+  {
+    "type": "header",
+    "text": "5.17 Anchors are manufactured by Hilti AG under an",
+    "page": 11
+  },
+  {
+    "type": "paragraph",
+    "text": "approved quality-control program with inspections by",
+    "page": 11
+  },
+  {
+    "type": "drawing_label",
+    "text": "ICC-ES.",
+    "page": 11
+  },
+  {
+    "type": "header",
+    "text": "5.18 Special inspection must be provided in accordance",
+    "page": 11
+  },
+  {
+    "type": "short_text",
+    "text": "with Section 4.4.",
+    "page": 11
+  },
+  {
+    "type": "header",
+    "text": "6.0 EVIDENCE SUBMITTED 6.1 Data in accordance with the ICC-ES Acceptance",
+    "page": 11
+  },
+  {
+    "type": "paragraph",
+    "text": "Criteria for Mechanical Anchors in Concrete Elements (AC193), dated October 2017, (editorially revised December 2020), which incorporates requirements in ACI 355.2-19 and ACI 355.2-07 for use in cracked and",
+    "page": 11
+  },
+  {
+    "type": "short_text",
+    "text": "uncracked concrete.",
+    "page": 11
+  },
+  {
+    "type": "header",
+    "text": "6.2 Quality-control documentation. 7.0 IDENTIFICATION",
+    "page": 11
+  },
+  {
+    "type": "paragraph",
+    "text": "7.1. The ICC-ES mark of conformity, electronic labeling, or the evaluation report number (ICC-ES ESR-4266) along with the name, registered trademark, or registered logo of the report holder must be included in",
+    "page": 11
+  },
+  {
+    "type": "short_text",
+    "text": "the product label. 7.2 7.3 Page 5 of 16",
+    "page": 11
+  },
+  {
+    "type": "paragraph",
+    "text": "In addition, the anchors are identified by packaging labeled with the manufacturer’s name (Hilti, Inc.) and contact information, anchor name, anchor size, and evaluation report number (ESR-4266). The anchors have the letters KB-TZ2 embossed on the anchor stud and a notch or notches embossed into the anchor head. The letters and notches are visible after installation for verification as depicted in Figure 3 of this report. The number of notches indicate material type. The letter system indicating length embossed on the head of the anchor is described in Table 2. The report holder’s contact information is the following:",
+    "page": 11
+  },
+  {
+    "type": "drawing_label",
+    "text": "HILTI, INC.",
+    "page": 11
+  },
+  {
+    "type": "header",
+    "text": "7250 DALLAS PARKWAY, SUITE 1000",
+    "page": 11
+  },
+  {
+    "type": "drawing_label",
+    "text": "PLANO, TEXAS 75024",
+    "page": 11
+  },
+  {
+    "type": "short_text",
+    "text": "(918) 872-8000 www.hilti.com",
+    "page": 11
+  },
+  {
+    "type": "paragraph",
+    "text": "ESR-4266 | Most Widely Accepted and Trusted Page 6 of 16",
+    "page": 12
+  },
+  {
+    "type": "drawing_label",
+    "text": "TABLE 1—SETTING INFORMATION",
+    "page": 12
+  },
+  {
+    "type": "paragraph",
+    "text": "Setti f ti s Nominal anchor diameter (in.) etting information m.",
+    "page": 12
+  },
+  {
+    "type": "short_text",
+    "text": ". : a 1",
+    "page": 12
+  },
+  {
+    "type": "paragraph",
+    "text": "Nominal bit diameter ' Design information for her= 1-1/2 is only applicable to carbon steel (CS) KB-TZ2 bolts.",
+    "page": 12
+  },
+  {
+    "type": "short_text",
+    "text": "UNC thread collar a 3 QW NN) WANN ee a AN Hass Sao mandrel expansion element washer hex nut",
+    "page": 12
+  },
+  {
+    "type": "paragraph",
+    "text": "FIGURE 1—HILTI CARBON STEEL KWIK BOLT TZ (KB-TZ2) FIGURE 2—HILTI KB-TZ2 INSTALLED TABLE 2—LENGTH IDENTIFICATION SYSTEM (CARBON STEEL AND STAINLESS STEEL ANCHORS)",
+    "page": 12
+  },
+  {
+    "type": "short_text",
+    "text": "Length ID marking 1 13 | 14] 15",
+    "page": 12
+  },
+  {
+    "type": "paragraph",
+    "text": "1% 2%2| 3 |3%| 4 |4% 5%z| 6 | 6% ThR| 8 | 8%} 9 | 9%} 10} 11 } 12 22) 3 | 32) 4 |4% 5%} 6 | 6% Th| 8 | 8%) 9 |9% 11 | 12 | 13",
+    "page": 12
+  },
+  {
+    "type": "table_row",
+    "text": "For SI: 1 inch = 25.4 mm.",
+    "page": 12
+  },
+  {
+    "type": "paragraph",
+    "text": "13/, diameter anchors with length of 3'/2 are identified with an ohm (Q) ID marking on the bolt head.",
+    "page": 12
+  },
+  {
+    "type": "short_text",
+    "text": "Carbon Steel Single Notch Stainless Steel 304 Double Notch Stainless Steel 316 Triple Notch Code Code mee",
+    "page": 12
+  },
+  {
+    "type": "paragraph",
+    "text": "FIGURE 3—BOLT HEAD WITH LENGTH IDENTIFICATION CODE AND KB-TZ2 HEAD NOTCH EMBOSSMENT",
+    "page": 12
+  },
+  {
+    "type": "paragraph",
+    "text": "ESR-4266 | Most Widely Accepted and Trusted Page 7 of 16 TABLE 3—MINIMUM EDGE DISTANCE, SPACING AND CONCRETE THICKNESS FOR KB-TZ2 j Nominal anchor dia. (in. aoe Symbol] Units mm) information 114 3/5 1), 5/g 3/4 4 Effective min. | in. |1-1/2|1-1/2| 2 |2-1/2|1-1/2} 2 |2-1/2)3-1/4|2-3/4|3-1/4| 4 |3-1/4/3-3/4]4-3/4| 4 5-3/4",
+    "page": 13
+  },
+  {
+    "type": "short_text",
+    "text": "ef",
+    "page": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "embedment (mm) | (38) | (38) | (51) | (64) | (38) | (51) | (64) | (83) | (70) | (83) |(102)} (83) | (95) |(121)} (102) | (146) Min. member |, in. |3-1/4/3-1/4] 4 | 5 |3-1/2} 4 | 5 [5-1/2] 5 |5-1/2] 6 |5-1/2} 6 | 8 | 8 | 10 thickness \"| (mm) | (83) | (83) |(102)|(127)| (89) |(102)}(127) }(140) | (127) | (140) |(152) |(140) | (152) | (203) | (203) | (254)",
+    "page": 13
+  },
+  {
+    "type": "short_text",
+    "text": "Carbon Steel",
+    "page": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "in. 1-1/2) 5 |2-1/2|2-1/2| 8 |2-3/4 | 2-3/4 | 2-1/4 | 4-1/2 | 3-1/2 |2-3/4| 5 4 |3-1/2|} 8 3",
+    "page": 13
+  },
+  {
+    "type": "short_text",
+    "text": "Cmin",
+    "page": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "Min. edge (mm) | (38) |(127)| (64) | (64) |(203)] (70) | (70) | (57) |(114)} (89) | (70) |(127)}(102)] (89) |(203)} (76) distance ‘or o> in. |1-1/2| 8 6 5 | 12 |5-1/2|9-3/4|5-1/4 |6-1/2|5-1/2|7-1/4| 10 |5-3/4|5-1/2| 8 |6-3/4",
+    "page": 13
+  },
+  {
+    "type": "short_text",
+    "text": "ors2",
+    "page": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "(mm) | (38) |(203)|(152)|}(127) }(305) |(140) |(248) |(133) |(165) |(140) |(184) |(254) |(146) |(140) |(203) |(171) in. 1-1/2} 5 |2-1/4| 2 12 |3-1/2| 3 2 |4-1/2 | 2-3/4 | 2-1/4 | 4-1/2 | 3-3/4 | 3-3/4] 8 |4-3/4",
+    "page": 13
+  },
+  {
+    "type": "short_text",
+    "text": "Smin",
+    "page": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "Min. anchor (mm) | (38) |(127)| (57) | (51) |(305)| (89) | (76) | (51) }(114)} (70) | (57) |(114)} (95) | (95) |(203) | (121) Spacing ' . In. 1-1/2) 8 |3-1/2| 4 8 10 8 |4-3/4/5-1/2| 7 |4-1/4) 6 |7-1/4/4-3/4| 8 |3-3/4",
+    "page": 13
+  },
+  {
+    "type": "short_text",
+    "text": "orc2",
+    "page": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "(mm) | (38) |(203)} (89) }(102) }(203) |(254) |(203) }(121) }(140) |(178) | (108) | (152) |(184) |(121) |(203)} (95)",
+    "page": 13
+  },
+  {
+    "type": "short_text",
+    "text": "Stainless Steel",
+    "page": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "in. 1-1/2} 5 |2-1/2}2-1/2 2-3/4 |2-1/2|2-1/4| 4 |3-1/4]2-1/4|} 5 4 |3-3/4|3-3/4] 3",
+    "page": 13
+  },
+  {
+    "type": "short_text",
+    "text": "Cmin",
+    "page": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "Min. edge (mm) | (38) |(127)) (64) | (64) (70) | (64) | (57) |(102)| (83) | (57) |(127)}(102)| (95) | (95) | (76) distance ‘ors> in. 1-1/2} 8 | 5 | 5 5-1/2|4-1/2|5-1/4| 7 |5-1/2| 7 | 114 |7-1/2|5-3/4} 10 |6-3/4",
+    "page": 13
+  },
+  {
+    "type": "short_text",
+    "text": "ors2",
+    "page": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "(mm) | (38) |(203)|(127)|(127) (140) | (114) |(133) |(178) | (140) |(178) | (279) |(191)|(146) | (254) |(171) in. 1-1/2} 5 |2-1/4|2-1/4 2-3/4 |}2-1/2| 2 |5-1/2}2-3/4| 3 5 4 4 5 14-3/4",
+    "page": 13
+  },
+  {
+    "type": "short_text",
+    "text": "Smin",
+    "page": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "Min. anchor (mm) | (38) |(127)} (57) | (57) (70) | (64) | (51) |(140)} (70) | (76) |(127) |}(102) | (102) |(127) |(121) spacing ‘or o> In. |1-1/2] 8 | 4 {3-1/2 4-1/8 |4-1/2|4-1/2|5-1/2| 4 |4-1/4| 8 | 6 |5-1/4|4-1/4|3-3/4",
+    "page": 13
+  },
+  {
+    "type": "short_text",
+    "text": "orc2",
+    "page": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "(mm) | (38) |(203)|(102)] (89) (105) | (114)| (114) | (140) |(102) |(108) | (203) | (152) | (133) |(108)} (95)",
+    "page": 13
+  },
+  {
+    "type": "table_row",
+    "text": "For SI: 1 inch = 25.4 mm",
+    "page": 13
+  },
+  {
+    "type": "short_text",
+    "text": "@ [@)) & © or Cmin at Ss > (7p)",
+    "page": 13
+  },
+  {
+    "type": "drawing_label",
+    "text": "KY",
+    "page": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "h > hmin Smin at C >",
+    "page": 13
+  },
+  {
+    "type": "short_text",
+    "text": "Cc edge distance (c)",
+    "page": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "FIGURE 4—INTERPOLATION OF MINIMUM EDGE DISTANCE AND ANCHOR SPACING",
+    "page": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "ESR-4266 | Most Widely Accepted and Trusted",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "Page 8 of 16",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "TABLE 4—HILTI CARBON STEEL KB-TZ2 DESIGN INFORMATION FOR HAMMER AND CORE DRILLED INSTALLATIONS, TENSION’",
+    "page": 14
+  },
+  {
+    "type": "table_row",
+    "text": "For SI: 1 inch = 25.4 mm, 1 Ibf = 4.45 N, 1 psi =",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "' Figure 2 of this report illustrates the installation parameters. ? The KB-TZ2 is considered a ductile steel element in accordance with ACI 318 (-19 and -14) 2.3.",
+    "page": 14
+  },
+  {
+    "type": "header",
+    "text": "3 The strength reduction factor applies when the load combinations from the IBC or ACI 318 are used and the requirements of ACI 318-19 17.5.3 or ACI 318-14",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "17.3.3, as applicable, are met. The strength reduction factors are applicable with supplementary reinforcement is not present. Greater strength reduction factors may be used in areas where supplementary reinforcement can be verified.",
+    "page": 14
+  },
+  {
+    "type": "header",
+    "text": "4 For all design cases, Y= 1.0. The appropriate effectiveness factor for cracked concrete (Ker) or uncracked concrete (Kuncr) must be used. 5 For all design cases, Y. =",
+    "page": 14
+  },
+  {
+    "type": "table_row",
+    "text": "compressive strength greater than 2,500 psi (17.2 MPa) may be increased by multiplying the tabular pullout strength by (fc / 2,500)\" for psi, or (fc / 17.2)\" for",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "MPa, where n is given as Nuncr for uncracked concrete and ner for cracked concrete and seismic. NA (not applicable) denotes that pullout strength does not need to be considered for design.",
+    "page": 14
+  },
+  {
+    "type": "header",
+    "text": "6 For core drill installations, Kuner =",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "71/4-inch and 1-inch diameter anchors are not permitted for core drilling installations.",
+    "page": 14
+  },
+  {
+    "type": "header",
+    "text": "0.006895 MPa. For pound-inch units: 1 mm = 0.03937 inches.",
+    "page": 14
+  },
+  {
+    "type": "table_row",
+    "text": "24 for °/4-inch diameter anchors installed at 3°/4 inches (95 mm) effective embedment.",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "Nominal anchor diameter (in)",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "Design parameter",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "Effective min. h in. 2-1/2 |3-1/4| 2-3/4 | 3-1/4 3-1/4 | 3-3/4 | 4-3/4 lembedment' of (mm) (146) Tension, steel failure modes",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "Strength reduction",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "factor for steel in Dsa,n - 0.75 0.75 0.75 0.75 0.75 0.75",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "tension??",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "Min. specified yield ' Ib/in? 100,900 87,000 84,700 75,000",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "y",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "Strength (N/mm?) | (696) (600) (584) (517) Min. specified ult. f, Ib/in? 122,400 126,200 114,000 106,700 105,900 88,000 Strength (N/mm2) | (844) (870) (786) (736) (730) (607) Effective tensile Aes In? 0.164 0.239 0.470 stress area (mm?) (106.0) (154.4) (303.2) Steel strength in N Ib 17,535 25,335 41,365 tension (kN) (78.0) (112.7) (184.1) Tension, concrete failure modes Anchor category - - 3 1 1 1",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "Strength reduction",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "factor for concrete Pan, and pullout failure Pp ° 0.45 0.65 0.65 0.65",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "in tension*",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "Effectiveness factor for uncracked Kuner - 24 24 27 278 24 27 24",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "concrete",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "Effectiveness factor for cracked Ker - 17 21 17 21 21",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "concrete Modification factor for anchor",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "resistance, tension, Won - 1.0 1.0 1.0 1.0",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "uncracked concrete*",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "Critical edge ; in. 6-3/4 | 10 11-1/2] 8-3/4 16 distance (mm) (171) |(254)| (254) | (292) | (222) | (305) | (254) (406) Pullout strength Ib 5,380",
+    "page": 14
+  },
+  {
+    "type": "header",
+    "text": "5 Np,uner N/A",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "uncracked conc. (kN) (23.9)",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "Ib 625 11,810",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "nermnpeke Nover N/A |N/A] N/A | N/A | N/A | NVA | NIA N/A",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "Ib 625 11,810",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "Pullout Strengin No,ea N/A |N/A] N/A | N/A N/A",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "(kN) (2.8) (52.6) Normalization",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "factor, uncracked Nuner - 0.20 | 0.22 |0.24} 0.35 | 0.50 | 0.42 0.48 0.38",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "concrete Normalization",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "factor, cracked Nor - 0.39 | 0.50 |0.46 0.47 | 0.50 | 0.48 | 0.40 0.47 | 0.50 | 0.36 | 0.42 | 0.29 | N/A 0.50",
+    "page": 14
+  },
+  {
+    "type": "short_text",
+    "text": "concrete, seismic",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "Tension, axial stiffness Axial stiffness in Buner Ib/in. |322,360 131,570 158,585 290,360 412,335 199,845 service load range Bor Ib/in. | 31,035 91,335 113,515 167,365 62,180 122,400",
+    "page": 14
+  },
+  {
+    "type": "table_row",
+    "text": "1.0. Tabular value for pullout strength is for a concrete compressive strength of 2,500 psi (17.2 MPa). Pullout strength for concrete",
+    "page": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "ESR-4266 | Most Widely Accepted and Trusted Page 9 of 16 TABLE 5—HILTI STAINLESS STEEL KB-TZ2 DESIGN INFORMATION FOR HAMMER AND CORE DRILLED",
+    "page": 15
+  },
+  {
+    "type": "drawing_label",
+    "text": "INSTALLATIONS, TENSION®",
+    "page": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "Nominal anchor diameter (in)",
+    "page": 15
+  },
+  {
+    "type": "short_text",
+    "text": "] a Design parameter",
+    "page": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "Tension, steel failure modes Strength reduction factor or steel in tension?* Min. specified yield Ib/in? |100,900 strength (Nimm2)| (696) Min. specified ult. Ib/in? )122,400 strength (N/mm?) (844) Effective tensile stress 0.164 0.239 0.470 area (106.0) (154.4) (303.2) 18,835 24,045 46,955 (83.8) (107.0) (208.9) Steel strength in tension Tension, concrete failure modes",
+    "page": 15
+  },
+  {
+    "type": "short_text",
+    "text": "Anchor category",
+    "page": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "Strength reduction factor or concrete and pullout",
+    "page": 15
+  },
+  {
+    "type": "short_text",
+    "text": "ailure in tension, reinforcement not present)?",
+    "page": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "Effectiveness factor for k 7 24 uncracked concrete uner Effectiveness factor for",
+    "page": 15
+  },
+  {
+    "type": "short_text",
+    "text": "k, cracked concrete or",
+    "page": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "Modification factor for",
+    "page": 15
+  },
+  {
+    "type": "short_text",
+    "text": "lanchor resistance, tension, uncracked concrete* 4-1/2 |5-1/2 6-1/4 (114) |(140) (159)",
+    "page": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "Pullout strength 4,010 luncracked concrete® (17.8) Critical edge distance Pullout strength cracked N/A",
+    "page": 15
+  },
+  {
+    "type": "short_text",
+    "text": "concrete Pullout strength seismic®",
+    "page": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "Normalization factor,",
+    "page": 15
+  },
+  {
+    "type": "short_text",
+    "text": "luncracked concrete",
+    "page": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "Normalization factor, Ner N/A. | N/A! NVA N/A cracked concrete, seismic| Tension, axial stiffness",
+    "page": 15
+  },
+  {
+    "type": "short_text",
+    "text": "166,490 175,800 33,805 79,860",
+    "page": 15
+  },
+  {
+    "type": "table_row",
+    "text": "For SI: 1 inch = 25.4 mm, 1 lbf = 4.45 N, 1 psi = 0.006895 MPa For pound-inch units: 1 mm = 0.03937 inches.",
+    "page": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "' Figure 2 of this report illustrates the installation parameters. ? The KB-TZ2 is considered a ductile steel element in accordance with ACI 318 (-19 and -14) 2.3.",
+    "page": 15
+  },
+  {
+    "type": "header",
+    "text": "3 The strength reduction factor applies when the load combinations from the IBC or ACI 318 are used and the requirements of ACI 318-19 17.5.3 or ACI 318-14",
+    "page": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "17.3.3, as applicable, are met. The strength reduction factors are applicable with supplementary reinforcement is not present. Greater strength reduction factors may be used in areas where supplementary reinforcement can be verified.",
+    "page": 15
+  },
+  {
+    "type": "header",
+    "text": "4 For all design cases, Vy = 1.0. The appropriate effectiveness factor for cracked concrete (kc) or uncracked concrete (Kuncr) must be used. 5 For all design cases, Y.,p = 1.0. Tabular value for pullout strength is for a concrete compressive strength of 2,500 psi (17.2 MPa). Pullout strength for concrete",
+    "page": 15
+  },
+  {
+    "type": "table_row",
+    "text": "compressive strength greater than 2,500 psi (17.2 MPa) may be increased by multiplying the tabular pullout strength by (fc / 2,500)\" for psi, or (fc / 17.2)\" for MPa,",
+    "page": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "where n is given aS Nuncr for uncracked concrete and ner for cracked concrete.NA (not applicable) denotes that pullout strength does not need to be considered for",
+    "page": 15
+  },
+  {
+    "type": "short_text",
+    "text": "design.",
+    "page": 15
+  },
+  {
+    "type": "header",
+    "text": "6 For core drill installations, kKuncr = 24 and Ker = 17 for °/4-inch diameter anchors installed at 3°/4 inches (95 mm) effective embedment. 7 For core drill installations, Np,cr = 4245 Ib (18.9 KN) and Np,eq = 4245lb (18.9 kN) for ‘/2-inch diameter anchors installed at 3'/4 inches (83 mm) effective embedment.",
+    "page": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "81/4-inch and 1-inch diameter anchors are not permitted for core drilling installations.",
+    "page": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "ESR-4266 | Most Widely Accepted and Trusted Page 10 of 16 TABLE 6—HILTI CARBON STEEL KB-TZ2 DESIGN INFORMATION FOR HAMMER AND CORE DRILLED INSTALLATIONS, SHEAR‘ Nominal anchor diameter (in)",
+    "page": 16
+  },
+  {
+    "type": "short_text",
+    "text": "Design parameter [Anchor O.D. Effective min. lembedment '",
+    "page": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "Strength reduction factor for steel in shear 2°",
+    "page": 16
+  },
+  {
+    "type": "short_text",
+    "text": "0.6",
+    "page": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "Ib 1,345 18,795 | 22,825 Steel strength in shear Vsa",
+    "page": 16
+  },
+  {
+    "type": "drawing_label",
+    "text": "(KN) | (6.0) (83.6) | (101.6)",
+    "page": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "Steel strength in shear, V Ib | 1,345 | 3,225 | 3,385 5,535 6,875 10,255 13,805 13,805 seismic “7 (KN) | (6.0) | (14.4) | (15.1) (24.6) (30.6) (45.6) (61.4) (61.4) Shear, concrete failure modes Strength reduction factor for concrete breakout and pryout failure in shear, (Condition B — 0.70 0.70 0.70 0.70 0.70 0.70",
+    "page": 16
+  },
+  {
+    "type": "short_text",
+    "text": "supplementary reinforcement not present) °",
+    "page": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "Load bearing length of in. | 1-1/2 | 1-1/2 | 2 |2-1/2| 1-1/2 | 2 | 2-1/2 | 3-1/4 | 2-3/4 | 3-1/4] 4 | 3-1/4] 3-3/4 | 4-3/4 4 5-3/4 anchor in shear (mm)} (38) | (38) | (51)|(64)| (38) | (51) | (64) | (83) | (70) | (83) | (102)| (83) | (95) | (121) | (102) | (146) Coefficient for pryout kep - 1 1 |at2it4 1 2 2 2 2|2]2 2 2 2 2",
+    "page": 16
+  },
+  {
+    "type": "short_text",
+    "text": "strength",
+    "page": 16
+  },
+  {
+    "type": "table_row",
+    "text": "For SI: 1 inch = 25.4 mm, 1 lbf = 4.45 N, 1 psi = 0.006895 MPa For pound-inch units: 1 mm = 0.03937 inches.",
+    "page": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "' Figure 2 of this report illustrates the installation parameters. ? The KB-TZ2 is considered a ductile steel element in accordance with ACI 318 (-19 and -14) 2.3 or ACI 318-11 D.1.",
+    "page": 16
+  },
+  {
+    "type": "header",
+    "text": "3 The strength reduction factor applies when the load combinations from the IBC or ACI 318 are used and the requirements of ACI 318-19 17.5.3, ACI 318-14",
+    "page": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "17.3.3, as applicable, are met. The strength reduction factors are applicable with supplementary reinforcement is not present. Greater strength reduction factors may be used in areas where supplementary reinforcement can be verified. 41/,-inch and 1-inch diameter anchors are not permitted for core drilling installations. TABLE 7—HILTI STAINLESS STEEL KB-TZ2 DESIGN INFORMATION FOR HAMMER AND CORE DRILLED INSTALLATIONS, SHEAR‘ Nominal anchor diameter",
+    "page": 16
+  },
+  {
+    "type": "short_text",
+    "text": "Design parameter fo Anchor O.D.",
+    "page": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "2-1/2 | 3-1/4 | 2-3/4 3-3/4 | 4-3/4",
+    "page": 16
+  },
+  {
+    "type": "short_text",
+    "text": "(51) | (64) | (51)",
+    "page": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "Effective min. embedment ' Shear, steel failure modes Strength reduction factor for",
+    "page": 16
+  },
+  {
+    "type": "short_text",
+    "text": "steel in shear 2: 22,955 | 31,400",
+    "page": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "Steel strength in shear",
+    "page": 16
+  },
+  {
+    "type": "short_text",
+    "text": "(102.1) | (139.7)",
+    "page": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "Steel strength in shear, seismic Shear, concrete failure modes Strength reduction factor for concrete breakout and pryout ailure in shear, (Condition B— supplementary reinforcement not",
+    "page": 16
+  },
+  {
+    "type": "short_text",
+    "text": "present) °",
+    "page": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "Load bearing length of anchor in in. 1-1/2 2 (2-1/2) 2 | 2-1/2 | 3-1/4 | 2-3/4 | 3-1/4 4 | 3-1/4 | 3-3/4 | 4-3/4 4 5-3/4 shear (mm) | (38) (51) | (64) | (51)} (64) | (83) | (70) | (83) | (102)} (83) | (95) | (121) | (102) (146) Coefficient for pryout strength 1 2 1 2 2 2 2 2 2 2 2 2 2",
+    "page": 16
+  },
+  {
+    "type": "table_row",
+    "text": "For SI: 1 inch = 25.4 mm, 1 lbf = 4.45 N, 1 psi = 0.006895 MPa For pound-inch units: 1 mm = 0.03937 inches.",
+    "page": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "' Figure 2 of this report illustrates the installation parameters. ? The KB-TZ2 is considered a ductile steel element in accordance with ACI 318 (-19 and -14) 2.3 or ACI 318-11 D.1.",
+    "page": 16
+  },
+  {
+    "type": "header",
+    "text": "3 The strength reduction factor applies when the load combinations from the IBC or ACI 318 are used and the requirements of ACI 318-19 17.5.3, ACI 318-14",
+    "page": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "17.3.3, as applicable, are met. The strength reduction factors are applicable with supplementary reinforcement is not present. Greater strength reduction factors may be used in areas where supplementary reinforcement can be verified. 41/,-inch and 1-inch diameter anchors are not permitted for core drilling installations.",
+    "page": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "ESR-4266 | Most Widely Accepted and Trusted Page 11 of 16 TABLE 8—HILTI KB-TZ2 CARBON STEEL ANCHORS TENSION AND SHEAR DESIGN DATA FOR INSTALLATION IN THE SOFFIT OF",
+    "page": 17
+  },
+  {
+    "type": "header",
+    "text": "3000 PSI, LIGHTWEIGHT CONCRETE-FILLED PROFILE STEEL DECK ASSEMBLIES FOR HAMMER AND CORE DRILLED",
+    "page": 17
+  },
+  {
+    "type": "drawing_label",
+    "text": "INSTALLATIONS 123",
+    "page": 17
+  },
+  {
+    "type": "short_text",
+    "text": "Anchor Diameter Design parameter 1/2",
+    "page": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "Effective min. embedment ' in. 1-1/2 | 2 Minimum hole depth in. 2-1/4 Loads According to Figure 5A pin Concrete flute 4 2-1/2 2-1/2 2-1/2 2-1/2 2-1/2 | 3-1/4",
+    "page": 17
+  },
+  {
+    "type": "short_text",
+    "text": "Pullout strength,",
+    "page": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "uncracked concrete °°",
+    "page": 17
+  },
+  {
+    "type": "short_text",
+    "text": "Pullout strength, cracked concrete °° N 'p,deck,uncr N, 'p,deck,cr Np, deck, eq",
+    "page": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "Steel strength in shear® Vsa,deck 1,355 2,120 Vsa,deck,eq 1 ,355 2 120 Steel strength in shear, Loads According to Figure 5B",
+    "page": 17
+  },
+  {
+    "type": "short_text",
+    "text": "2-1/2 Amin, deck i . n. Ib 515 ; :",
+    "page": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "H . , Np,deck,eq 1,625 2 295 2 405 Steel strength in shear® Vsa,deck 1,630 | 1,355 2,120 2,120 Steel strength in shear,",
+    "page": 17
+  },
+  {
+    "type": "short_text",
+    "text": "seismic ” 3,730 7,865 Vsa,deck, eq",
+    "page": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "Loads According to Figure 5C",
+    "page": 17
+  },
+  {
+    "type": "short_text",
+    "text": "Minimum concrete",
+    "page": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "hickness over upper flute +",
+    "page": 17
+  },
+  {
+    "type": "short_text",
+    "text": "Pullout strength,",
+    "page": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "uncracked concrete °°",
+    "page": 17
+  },
+  {
+    "type": "short_text",
+    "text": "Amin, deck Np, deck,uncr N, 'p,deck,cr",
+    "page": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "' Installations must comply with Section 4.1.9 and Section 4.3 and Figure 5A, Figure 5B and Figure 5C of this report.",
+    "page": 17
+  },
+  {
+    "type": "header",
+    "text": "2 The values for ¢p,~ in tension can be found in Table 4 of this report. The values for ¢sa,v in shear can be found in Table 6 of this report. 3 Evaluation of concrete breakout capacity in accordance with ACI 318-19 17.6.2, 17.7.2 and 17.7.3 or ACI 318-14 17.4.2, 17.5.2 and 17.5.3, as applicable, is not",
+    "page": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "required for anchors installed in the deck soffit.",
+    "page": 17
+  },
+  {
+    "type": "header",
+    "text": "4 Minimum concrete thickness refers to concrete thickness above upper flute. See Figures 5A to 5C. 5 Characteristic pullout resistance for concrete compressive strengths greater than 3,000 psi (20.7 MPa) may be increased by multiplying the value in the table by",
+    "page": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "(f 'c / 3000)\" for psi or (f 'c / 20.7)\" for MPa. See Table 4 for normalization factor. ® The values listed must be used in accordance with Section 4.1.4 of this report.",
+    "page": 17
+  },
+  {
+    "type": "header",
+    "text": "7 The values listed must be used in accordance with Sections 4.1.4 and 4.1.8 of this report. 8 The values listed must be used in accordance with Section 4.1.5 of this report.",
+    "page": 17
+  },
+  {
+    "type": "table_row",
+    "text": "° For core drill installations, with 9/4-inch diameter anchors installed at 3°/4 inches (95 mm) effective embedment, apply a reduction factor of 0.89 to the design",
+    "page": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "tension strength of anchors installed in uncracked concrete.",
+    "page": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "ESR-4266 | Most Widely Accepted and Trusted",
+    "page": 18
+  },
+  {
+    "type": "short_text",
+    "text": "Page 12 of 16",
+    "page": 18
+  },
+  {
+    "type": "paragraph",
+    "text": "TABLE 9—HILTI KB-TZ2 CARBON STEEL ANCHORS SETTING INFORMATION FOR INSTALLATION ON THE TOP OF CONCRETE-FILLED PROFILE STEEL DECK ASSEMBLIES ACCORDING TO FIGURE 5D ‘23",
+    "page": 18
+  },
+  {
+    "type": "short_text",
+    "text": "Nominal h i in.",
+    "page": 18
+  },
+  {
+    "type": "paragraph",
+    "text": "Design Information Symbol |Units ominal anchor diameter (in.)",
+    "page": 18
+  },
+  {
+    "type": "short_text",
+    "text": "1/4 3/8 1/2",
+    "page": 18
+  },
+  {
+    "type": "paragraph",
+    "text": "; in. 1-1/2 1-1/2 2 1-1/2 2 Effective Embedment Depth her (mm) | (38) (38) (51) (38) (51) ; in. 1-3/4 1-7/8 2-1/2 2 2-1/2 Nominal Embedment Depth Anom (mm) | (44) (48) (64) (51) (64) . in. 2 2 2-1/2 2-3/4 2-1/4 2-3/4 Minimum Hole Depth ho (mm) | (51) (51) (64) (70) (57) (70)",
+    "page": 18
+  },
+  {
+    "type": "drawing_label",
+    "text": ". ; 4 in. 2-1/2 | 2-1/2 2-1/2 3-1/4 2-1/2 3-1/4 3-1/4",
+    "page": 18
+  },
+  {
+    "type": "paragraph",
+    "text": "Minimum Concrete Thickness Amin deck (mm) | (64) (64) (64) (83) (64) (83) (83) es ; in. 5 16 8 6 7-1/2 12 7-1/2 Critical Edge Distance Cac, deck, top (mm) | (127) (408) (204) (152) (191) (305) (191) Minimum Edae Distance cm in. 3 16 8 6 7-1/2 12 7-1/2 8 u g min. deck P| (mam) | (76) | (408) | (204) | (152) | (191) | (305) | (191) | (204) Minimum Spacin Simi in. y 8 6 4 2 6 2 6 pacing min, deck 02) (mm) | (76) (204) | (152) | (102) | (229) | (152) | (229) | (152) Required Installation Torque Tinst Nm) 6 an) 68) ' Installations must comply with Section 4.1.10 and Section 4.3 and Figure 5D of this report. ? Design capacity shall be based on calculations according to values in Tables 4 and 6 of this report.",
+    "page": 18
+  },
+  {
+    "type": "header",
+    "text": "3 Applicable for Amin,deck < Amin, Table 3. For Amin,deck 2 Amin, Table 3, uSe setting information in Tables 1 and 3 and critical ede distances in Table 4",
+    "page": 18
+  },
+  {
+    "type": "short_text",
+    "text": "of this report.",
+    "page": 18
+  },
+  {
+    "type": "header",
+    "text": "4 Minimum concrete thickness refers to concrete thickness above the upper flute. See Figure 5D.",
+    "page": 18
+  },
+  {
+    "type": "short_text",
+    "text": "Upper flute",
+    "page": 18
+  },
+  {
+    "type": "paragraph",
+    "text": "Min. 12” typ. installation Lower flute installation",
+    "page": 18
+  },
+  {
+    "type": "short_text",
+    "text": "Imin,deck ¢ a",
+    "page": 18
+  },
+  {
+    "type": "drawing_label",
+    "text": "S| 4",
+    "page": 18
+  },
+  {
+    "type": "short_text",
+    "text": "Max. 3” 4-1/2” Min. Min. 4-]/2”",
+    "page": 18
+  },
+  {
+    "type": "paragraph",
+    "text": "1” Min. 20-gauge steel deck FIGURE 5A—KB-TZ2 IN THE SOFFIT OF CONCRETE FILLED PROFILE STEEL DECK ASSEMBLIES — W DECK Min. 12” typ. Upper flute Lower flute installation installatio",
+    "page": 18
+  },
+  {
+    "type": "short_text",
+    "text": "Iimin,deck ¢ 5",
+    "page": 18
+  },
+  {
+    "type": "drawing_label",
+    "text": "S| 4",
+    "page": 18
+  },
+  {
+    "type": "short_text",
+    "text": "Max. 3” 3-7/8” Min. Min. 3-7/8”",
+    "page": 18
+  },
+  {
+    "type": "paragraph",
+    "text": "1” Min. 20-gauge steel deck FIGURE 5B—KB-TZ2 IN THE SOFFIT OF CONCRETE FILLED PROFILE STEEL DECK ASSEMBLIES — W DECK",
+    "page": 18
+  },
+  {
+    "type": "paragraph",
+    "text": "ESR-4266 | Most Widely Accepted and Trusted Page 13 of 16 Min. 6” typ. Upper flute installation Lower flute installation",
+    "page": 19
+  },
+  {
+    "type": "short_text",
+    "text": "min,deck a 2 = % i B Max. 1-1/2” ad = my) Min. 3- “a a 13/4” — Min. 20-gauge steel deck",
+    "page": 19
+  },
+  {
+    "type": "paragraph",
+    "text": "FIGURE 5C—KB-TZ2 IN THE SOFFIT OF CONCRETE FILLED PROFILE STEEL DECK ASSEMBLIES — B DECK nin, deck f min,deck",
+    "page": 19
+  },
+  {
+    "type": "short_text",
+    "text": "Min. 1-1/2” sn ‘a 110\" 1- 3 | 20-gauge steel deck !",
+    "page": 19
+  },
+  {
+    "type": "paragraph",
+    "text": "FIGURE 5D—KB-TZ2 IN THE TOP OF CONCRETE FILLED PROFILE STEEL DECK ASSEMBLIES",
+    "page": 19
+  },
+  {
+    "type": "table_row",
+    "text": "1 1'/2 inches (38 mm) B-deck as a minimum profile size. Other deck profiles meeting the B-deck minimum dimensions are also permitted.",
+    "page": 19
+  },
+  {
+    "type": "paragraph",
+    "text": "ESR-4266 | Most Widely Accepted and Trusted with Hollow Drill Bit",
+    "page": 20
+  },
+  {
+    "type": "short_text",
+    "text": "— --",
+    "page": 20
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti TE-CD or TE-YD Hollow Carbide Drill Bit,",
+    "page": 20
+  },
+  {
+    "type": "short_text",
+    "text": "with y Hilti Vacuum (per section 4.3) Lf t dy",
+    "page": 20
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti SafeSet™ System | Hilti SafeSet™ System",
+    "page": 20
+  },
+  {
+    "type": "short_text",
+    "text": "Reon | pg fee __ FG do ran | No",
+    "page": 20
+  },
+  {
+    "type": "drawing_label",
+    "text": "A",
+    "page": 20
+  },
+  {
+    "type": "short_text",
+    "text": "with the Adaptive Torque Tool",
+    "page": 20
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti SIW-6AT-A22/SIW-",
+    "page": 20
+  },
+  {
+    "type": "drawing_label",
+    "text": "4AT-22/ SIW-6AT-22",
+    "page": 20
+  },
+  {
+    "type": "short_text",
+    "text": "Impact Wrench, with",
+    "page": 20
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti SI-AT-A22/SI-AT-22 Adaptive Torque Module",
+    "page": 20
+  },
+  {
+    "type": "short_text",
+    "text": "Hilti Dust Removal Systems Hilti Rotary Hammer",
+    "page": 20
+  },
+  {
+    "type": "paragraph",
+    "text": "Drill with DRS (Dust",
+    "page": 20
+  },
+  {
+    "type": "short_text",
+    "text": "Removal System) Module, or uv Hilti TE DRS-D Dust Removal System with Hilti Vacuum",
+    "page": 20
+  },
+  {
+    "type": "drawing_label",
+    "text": "FIGURE 6—HILTI SYSTEM COMPONENTS",
+    "page": 20
+  },
+  {
+    "type": "short_text",
+    "text": "90°",
+    "page": 20
+  },
+  {
+    "type": "paragraph",
+    "text": "[Symbol__|Symbol Description [Units| % |e ‘k [HDB S| Hollow Drill Bit = T= | UK CUT CCUM Mw [DRS = |Dust Removal Systems | — | ow | v aaa",
+    "page": 20
+  },
+  {
+    "type": "drawing_label",
+    "text": "[SIW 6AT-A22 + SIAT-A22 | - [=| |",
+    "page": 20
+  },
+  {
+    "type": "paragraph",
+    "text": "AT-System |SIW 4AT-22+SI-AT-22 | - | - |",
+    "page": 20
+  },
+  {
+    "type": "drawing_label",
+    "text": "[SIW 6AT-22 + SI-AT-22 0] = T=]",
+    "page": 20
+  },
+  {
+    "type": "paragraph",
+    "text": "| BB [Diamond Core Bit | - || UM",
+    "page": 20
+  },
+  {
+    "type": "short_text",
+    "text": "% v{| ov Page 14 of 16 Core Drill Systems -",
+    "page": 20
+  },
+  {
+    "type": "paragraph",
+    "text": "Handheld Hilti DD 30",
+    "page": 20
+  },
+  {
+    "type": "short_text",
+    "text": "Core Drill, with",
+    "page": 20
+  },
+  {
+    "type": "paragraph",
+    "text": "SPX-T Hilti Core Bits (per",
+    "page": 20
+  },
+  {
+    "type": "short_text",
+    "text": "Section 4.3) a in",
+    "page": 20
+  },
+  {
+    "type": "paragraph",
+    "text": "Anchor Diameter [inch]",
+    "page": 20
+  },
+  {
+    "type": "drawing_label",
+    "text": "FIGURE 7—INSTALLATION INSTRUCTIONS",
+    "page": 20
+  },
+  {
+    "type": "short_text",
+    "text": "ee ee AT-System™*",
+    "page": 20
+  },
+  {
+    "type": "drawing_label",
+    "text": "ICC ES EVALUATION SERVICE®",
+    "page": 21
+  },
+  {
+    "type": "paragraph",
+    "text": "ICC-ES Evaluation Report ESR-4266 LABC and LARC Supplement Reissued December 2021",
+    "page": 21
+  },
+  {
+    "type": "short_text",
+    "text": "Revised May 2023",
+    "page": 21
+  },
+  {
+    "type": "paragraph",
+    "text": "This report is subject to renewal December 2023. www.icc-es.org | (800) 423-6587 | (562) 699-0543 A Subsidiary of the International Code Council®",
+    "page": 21
+  },
+  {
+    "type": "drawing_label",
+    "text": "DIVISION: 03 00 0O—CONCRETE",
+    "page": 21
+  },
+  {
+    "type": "paragraph",
+    "text": "Section: 03 16 00—Concrete Anchors",
+    "page": 21
+  },
+  {
+    "type": "drawing_label",
+    "text": "DIVISION: 05 00 0O—METALS",
+    "page": 21
+  },
+  {
+    "type": "paragraph",
+    "text": "Section: 05 05 19—Post-Installed Concrete Anchors",
+    "page": 21
+  },
+  {
+    "type": "drawing_label",
+    "text": "REPORT HOLDER: HILTI, INC. EVALUATION SUBJECT:",
+    "page": 21
+  },
+  {
+    "type": "paragraph",
+    "text": "HILTI KWIK BOLT TZ2 CARBON AND STAINLESS STEEL ANCHORS IN CRACKED AND UNCRACKED CONCRETE",
+    "page": 21
+  },
+  {
+    "type": "header",
+    "text": "1.0 REPORT PURPOSE AND SCOPE",
+    "page": 21
+  },
+  {
+    "type": "short_text",
+    "text": "Purpose:",
+    "page": 21
+  },
+  {
+    "type": "paragraph",
+    "text": "The purpose of this evaluation report supplement is to indicate that the Kwik Bolt TZ2 (KB-TZ2) carbon and stainless steel anchors in cracked and uncracked concrete, described in ICC-ES evaluation report ESR-4266, have also been evaluated for compliance with the codes noted below as adopted by the Los Angeles Department of Building and Safety (_LADBS). Applicable code editions: @ 2023 City of Los Angeles Building Code (LABC) @ 2023 City of Los Angeles Residential Code (LARC)",
+    "page": 21
+  },
+  {
+    "type": "header",
+    "text": "2.0 CONCLUSIONS",
+    "page": 21
+  },
+  {
+    "type": "paragraph",
+    "text": "The Kwik Bolt TZ2 (KB-TZ2) carbon and stainless steel anchors in cracked and uncracked concrete, described in Sections 2.0 through 7.0 of the evaluation report ESR-4266, comply with LABC Chapter 19, and the LARC, and are subject to the conditions of use described in this supplement.",
+    "page": 21
+  },
+  {
+    "type": "header",
+    "text": "3.0 CONDITIONS OF USE",
+    "page": 21
+  },
+  {
+    "type": "paragraph",
+    "text": "The Kwik Bolt TZ2 (KB-TZ2) carbon and stainless steel anchors in cracked and uncracked concrete described in this evaluation report supplement must comply with all of the following conditions: e All applicable sections in the evaluation report ESR-4266. e The design, installation, conditions of use and identification of the Kwik Bolt TZ2 (KB-TZ2) anchors are in accordance with the 2021 International Building Code® (IBC) provisions noted in the evaluation report ESR-4266. e The design, installation and inspection are in accordance with additional requirements of LABC Chapters 16 and 17, and City of Los Angeles Information Bulletin P/BC 2020-092, as applicable. e Under the LARC, an engineered design in accordance with LARC Section R301.1.3 must be submitted. e The allowable and strength design values listed in the evaluation report and tables are for the connection of the anchors to concrete. The connection between the anchors and the connected members shall be checked for capacity (which may",
+    "page": 21
+  },
+  {
+    "type": "short_text",
+    "text": "govern).",
+    "page": 21
+  },
+  {
+    "type": "paragraph",
+    "text": "e For use in wall anchorage assemblies to flexible diaphragm applications, anchors shall be designed per the requirements of City of Los Angeles Information Bulletin P/BC 2020-071. This supplement expires concurrently with the evaluation report, reissued December 2021 and revised May 2023. ICC-ES Evaluation Reports are not to be construed as representing aesthetics or any other attributes not specifically addressed, nor are they to be construed w ¢ as an endorsement of the subject of the report or a recommendation for its use. There is no warranty by ICC Evaluation Service, LLC, express or implied, as WANE itm to any finding or other matter in this report, or as to any product covered by the report. ach oe Copyright © 2023 ICC Evaluation Service, LLC. All rights reserved. Page 15 of 16",
+    "page": 21
+  },
+  {
+    "type": "drawing_label",
+    "text": "ICC ES EVALUATION SERVICE®",
+    "page": 22
+  },
+  {
+    "type": "paragraph",
+    "text": "ICC-ES Evaluation Report ESR-4266 FBC Supplement Reissued December 2021 Revised December 17, 2021 This report is subject to renewal December 2023. www.icc-es.org | (800) 423-6587 | (562) 699-0543 A Subsidiary of the International Code Council®",
+    "page": 22
+  },
+  {
+    "type": "drawing_label",
+    "text": "DIVISION: 03 00 00O—CONCRETE",
+    "page": 22
+  },
+  {
+    "type": "paragraph",
+    "text": "Section: 03 16 00—Concrete Anchors",
+    "page": 22
+  },
+  {
+    "type": "drawing_label",
+    "text": "DIVISION: 05 00 00O—METALS",
+    "page": 22
+  },
+  {
+    "type": "paragraph",
+    "text": "Section: 05 05 19—Post-Installed Concrete Anchors",
+    "page": 22
+  },
+  {
+    "type": "drawing_label",
+    "text": "REPORT HOLDER: HILTI, INC. EVALUATION SUBJECT:",
+    "page": 22
+  },
+  {
+    "type": "paragraph",
+    "text": "HILT| KWIK BOLT TZ2 CARBON AND STAINLESS STEEL ANCHORS IN CRACKED AND UNCRACKED CONCRETE",
+    "page": 22
+  },
+  {
+    "type": "header",
+    "text": "1.0 REPORT PURPOSE AND SCOPE",
+    "page": 22
+  },
+  {
+    "type": "short_text",
+    "text": "Purpose:",
+    "page": 22
+  },
+  {
+    "type": "paragraph",
+    "text": "The purpose of this evaluation report supplement is to indicate that the Kwik Bolt TZ2 (KB-TZ2) carbon and stainless steel anchors in cracked and uncracked concrete, described in ICC-ES evaluation report ESR-4266, have also been evaluated for compliance with the codes noted below. Applicable code editions: @ 2020 Florida Building Code—Building @ 2020 Florida Building Code—Residential",
+    "page": 22
+  },
+  {
+    "type": "header",
+    "text": "2.0 CONCLUSIONS",
+    "page": 22
+  },
+  {
+    "type": "paragraph",
+    "text": "The Kwik Bolt TZ2 (KB-TZ2) carbon and stainless steel anchors in cracked and uncracked concrete, described in Sections 2.0 through 7.0 of the evaluation report ESR-4266, comply with the Florida Building Code—Building and the Florida Building Code—Residential, provided the design requirements are determined in accordance with the Florida Building Code—Building or the Florida Building Code—Residential, as applicable. The installation requirements noted in the ICC-ES evaluation report ESR-4266 for the 2018 International Building Code® meet the requirements of the Florida Building Code—Building or the Florida Building Code—Residential, as applicable. Use of the Kwik Bolt TZ2 (KB-TZ2) carbon and stainless steel anchors in cracked and uncracked concrete have also been found to be in compliance with the High-Velocity Hurricane Zone provisions of the Florida Building Code—Building and the Florida Building Code—Residential, with the following conditions: a) For anchorage to wood members, the connection subject to uplift, must be designed for no less than 700 pounds",
+    "page": 22
+  },
+  {
+    "type": "drawing_label",
+    "text": "(3114 N).",
+    "page": 22
+  },
+  {
+    "type": "table_row",
+    "text": "b) For connection to aluminum members, all expansion anchors must be installed no less than 3 inches from the edge of",
+    "page": 22
+  },
+  {
+    "type": "paragraph",
+    "text": "concrete slab and/or footings. All expansion anchors shall develop an ultimate withdrawal resisting force equal to four times the imposed load, with no stress increase for duration of load. For products falling under Florida Rule 61G20-3, verification that the report holder’s quality assurance program is audited by a quality assurance entity approved by the Florida Building Commission for the type of inspections being conducted is the responsibility of an approved validation entity (or the code official, when the report holder does not possess an approval by the Commission). This supplement expires concurrently with the evaluation report, reissued December 2021 and revised May 2023. ICC-ES Evaluation Reports are not to be construed as representing aesthetics or any other attributes not specifically addressed, nor are they to be construed ~N é as an endorsement of the subject of the report or a recommendation for its use. There is no warranty by ICC Evaluation Service, LLC, express or implied, as WANS) imc to any finding or other matter in this report, or as to any product covered by the report. platy eee",
+    "page": 22
+  },
+  {
+    "type": "drawing_label",
+    "text": "CODE COUNCIL",
+    "page": 22
+  },
+  {
+    "type": "paragraph",
+    "text": "Copyright © 2023 ICC Evaluation Service, LLC. All rights reserved. Page 16 of 16",
+    "page": 22
+  },
+  {
+    "type": "paragraph",
+    "text": "Silicon Valley Mechanical Job ID : 25014 - Paragon OSM Address : 1010 E. Arques Ave.",
+    "page": 23
+  },
+  {
+    "type": "short_text",
+    "text": "Sunnyvale, CA 94085 TAG : Cable Tray",
+    "page": 23
+  },
+  {
+    "type": "paragraph",
+    "text": "Contents - Level 1 - Cable Tray Seismic Hanger details",
+    "page": 23
+  },
+  {
+    "type": "short_text",
+    "text": "Section 1: Design",
+    "page": 23
+  },
+  {
+    "type": "paragraph",
+    "text": "Details : See 1/CT thru 4/CT Prepared By: Jose Villena Reviewed By : Travis Anderson",
+    "page": 23
+  },
+  {
+    "type": "short_text",
+    "text": "07/24/2025",
+    "page": 23
+  },
+  {
+    "type": "header",
+    "text": "2115 Ringwood Ave., San Jose, CA 95131",
+    "page": 23
+  },
+  {
+    "type": "short_text",
+    "text": "Design 7/24/2025",
+    "page": 24
+  },
+  {
+    "type": "paragraph",
+    "text": "Paragon OSM 25014 - Cable Tray Seismic Bracing",
+    "page": 24
+  },
+  {
+    "type": "table_row",
+    "text": "Weight : 224 448 lbs/ft * 224 PLF Max per cable tray as",
+    "page": 24
+  },
+  {
+    "type": "paragraph",
+    "text": "Cable Tray Quantity : 1 2 # as communicated by Team Transverse Seismic Support Spacing : 12 12 ft Total Weight, W;: 2688 5376 Ibs Longitudinal Seismic Support Spacing : 12 12 ft Total Weight, W, : 2688 5376 Ibs Hanger Spacing, S: 6 6 ft Total Hanger Weight, W,: 1344 2688 Ibs Seismic 2022 CBC & ASCE 7 -16:",
+    "page": 24
+  },
+  {
+    "type": "drawing_label",
+    "text": "KIT ID NAME 1-TIER 2-TIER",
+    "page": 24
+  },
+  {
+    "type": "paragraph",
+    "text": "Component Importance Factor, |, : 1.5 1.5 Section 13.1.3 Spectral Acceleration, Short Period, Spg : 1.10 1.10 Per spec, Component Amplification Factor, a, : 2.5 2.5 Table 13.6-1 Component Response Modification Factor, R, : 6 6 Table 13.6-1 Unit Height location in Structure, z : 0.25 0.25 ft, per plan Average Roof Height of Structure, h: 1 1 ft, per plan Horizontal Seismic Design Force Fon = [(0.4*a,*Sps) / (Rp/I)]*[1+2(z/h)] : 0.41 0.41 g, LRFD Fah =1.6*Sp5* I, 2.6 2.6 g, LRFD Fo =0.3*Sp55* I, : 0.5 0.5 g, LRFD <-- Governs Vertical Seismic Design Force Fp =0.2*Sp5: 0.219 0.219  g,LRFD Splayed Transverse - Longitudinal Brace Demand : Fon1=0.5* F,*W, /Cos@ : 937 1873  \\bs, LRFD (4) SPLAYED Fn =0.5* 0.7*F,*W, /Cos@ : 656 1311 Ibs,ASD = (4)SPLAYED",
+    "page": 24
+  },
+  {
+    "type": "short_text",
+    "text": "Rod Demand :",
+    "page": 24
+  },
+  {
+    "type": "paragraph",
+    "text": "Brace Angle, @: 45 45 degs, from horizontal Rod Load, RL =[1.2*W,+ F,,*Wy ]*0.5: 954 1907 Ibs, LRFD",
+    "page": 24
+  },
+  {
+    "type": "table_row",
+    "text": "Rod Total Vertical Load = RL : 954 1907 lbs, LRFD Rod Load, RL =[ W,,+ 0.7*F \"Wy ]*0.5: 775 1550 lbs, ASD",
+    "page": 24
+  },
+  {
+    "type": "paragraph",
+    "text": "Rod Total Vertical Load = RL: 775 1550 Ibs, ASD",
+    "page": 24
+  },
+  {
+    "type": "short_text",
+    "text": "Brace Anchorage :",
+    "page": 24
+  },
+  {
+    "type": "paragraph",
+    "text": "Concrete Overstrength, Q : 2 - Brace Angle, @: 45 - degs, from horizontal T=Fo*Q: 1873 - lbs, LRFD V= Foi*Q: 1873 - lbs, LRFD *Each tier will be braced",
+    "page": 24
+  },
+  {
+    "type": "drawing_label",
+    "text": "SEE HILTI REPORT = 1/2\"-5 1/2",
+    "page": 24
+  },
+  {
+    "type": "paragraph",
+    "text": "Silicon Valley Mechanical 2115 Ringwood Ave., San Jose, CA 95131",
+    "page": 24
+  },
+  {
+    "type": "short_text",
+    "text": "Design 7/24/2025 Support Anchorage :",
+    "page": 25
+  },
+  {
+    "type": "paragraph",
+    "text": "Concrete Overstrength, 0 : 2 2",
+    "page": 25
+  },
+  {
+    "type": "table_row",
+    "text": "T=RL*Q : 1907 3814 lbs, LRFD",
+    "page": 25
+  },
+  {
+    "type": "drawing_label",
+    "text": "SEE HILTI REPORT = 1/2\"-5 1/2 & 5/8\"-6",
+    "page": 25
+  },
+  {
+    "type": "short_text",
+    "text": "Rod Check:",
+    "page": 25
+  },
+  {
+    "type": "paragraph",
+    "text": "ATR Size : 1/2\" 5/8\" in Allowable : 1500 2410 I|bs, ASD  ASHRAE Practical Guide to Seismic Restraint Demand = RL: 775 1550 Ibs, ASD",
+    "page": 25
+  },
+  {
+    "type": "drawing_label",
+    "text": "D/C: 0.52 0.64 < 1.0, OK USE 1/2\" & 5/8\" ATR",
+    "page": 25
+  },
+  {
+    "type": "paragraph",
+    "text": "Brace Arm Assembly Check: ISAT Brace Assembly HC-02-02-L & HC-03-02-L Brace Arm Quantity : 4 - # Lower Bracket Product : HBK - Upper Bracket Product : AB45 (dual) - Brace Reaction at 45Deg =F, /Cos@ : 1325 - lbs, LRFD Cable Brace Assembly Capacity : 1585 - lbs, LRFD",
+    "page": 25
+  },
+  {
+    "type": "drawing_label",
+    "text": "D/C: 0.84 - < 1.0, OK ISAT CABLE BRACE ASSEMBLY : HC-02-02-L & HC-03-02-L",
+    "page": 25
+  },
+  {
+    "type": "paragraph",
+    "text": "Trapeze Element Check : Shape: P1001 - *Each tier will be braced",
+    "page": 25
+  },
+  {
+    "type": "short_text",
+    "text": "Grade : ASTM A653 - Fy: 33000 - psi E: 29000000 - psi Area: 1.111 - in? I: 0.928 - in |: 0.471 - in® S.: 0.571 - in® S.: 0.580 - in ry! 0.914 - in ry: 0.651 - in",
+    "page": 25
+  },
+  {
+    "type": "drawing_label",
+    "text": "K: 1 -",
+    "page": 25
+  },
+  {
+    "type": "short_text",
+    "text": "Ly: 24 - in",
+    "page": 25
+  },
+  {
+    "type": "drawing_label",
+    "text": "Q: 1.67 - SL: 0.85 - LB: 1 -",
+    "page": 25
+  },
+  {
+    "type": "short_text",
+    "text": "X -Major Bending",
+    "page": 25
+  },
+  {
+    "type": "paragraph",
+    "text": "Mx = (Fy*S*SL*LB)/Q: 9591 - lb-in Silicon Valley Mechanical 2115 Ringwood Ave., San Jose, CA 95131",
+    "page": 25
+  },
+  {
+    "type": "short_text",
+    "text": "Design 7/24/2025 Y -Minor Bending",
+    "page": 26
+  },
+  {
+    "type": "paragraph",
+    "text": "Mny = (Fy*S*SL*SB) /Q: 9742 - lb-in",
+    "page": 26
+  },
+  {
+    "type": "short_text",
+    "text": "Axial K*l,/r: 26 - A.7*(E/Fy)?: 139 -",
+    "page": 26
+  },
+  {
+    "type": "paragraph",
+    "text": "< F., = (0.6584(F,/F.))*F,: 31920 - psi > F,,=0.877*F,: 364055 - psi Fo=m*E/(K*L/r)’: 415114 - psi P,/ Q*SL*LB=F,,A,: 18050 - lbs, ASD Muy: 3934 - lb-in, ASD Mix: 4650 - lb-in, ASD For=P: 656 - lbs, ASD",
+    "page": 26
+  },
+  {
+    "type": "short_text",
+    "text": "Trapeze Checks :",
+    "page": 26
+  },
+  {
+    "type": "paragraph",
+    "text": "(Muy/May/a) + (Mux/Mnxja) + (0.889 - 1 - Longitudinal-Check P/ 2Paja t+ (Mux/Maxja) : 0.503 - 2 - Transverse-Check P/ 2Paya t+ (Muy/Maya) + (Mux/Mnx/o) : ~~: 0.907 - 3 - Combined-Check Deflection : 0.01 - in",
+    "page": 26
+  },
+  {
+    "type": "drawing_label",
+    "text": "USE : P1001 TRAPEZE ELEMENT MAX LENGTH 24 IN",
+    "page": 26
+  },
+  {
+    "type": "paragraph",
+    "text": "Silicon Valley Mechanical 2115 Ringwood Ave., San Jose, CA 95131",
+    "page": 26
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 27
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com",
+    "page": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "Company: Silicon Valley Mechanical, Inc. Page: 1",
+    "page": 27
+  },
+  {
+    "type": "short_text",
+    "text": "Address: Specifier:",
+    "page": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "Phone | Fax: | E-Mail: Design: Single Tier Cable Tray Seismic Brace Date: 7/23/2025",
+    "page": 27
+  },
+  {
+    "type": "short_text",
+    "text": "Fastening point:",
+    "page": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "Specifier's comments:",
+    "page": 27
+  },
+  {
+    "type": "header",
+    "text": "1 Input data",
+    "page": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "Anchor type and diameter:",
+    "page": 27
+  },
+  {
+    "type": "short_text",
+    "text": "Item number: Specification text:",
+    "page": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "Effective embedment depth:",
+    "page": 27
+  },
+  {
+    "type": "short_text",
+    "text": "Material:",
+    "page": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "Evaluation Service Report:",
+    "page": 27
+  },
+  {
+    "type": "short_text",
+    "text": "Issued | Valid: Proof:",
+    "page": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "Shear edge breakout verification: Stand-off installation:",
+    "page": 27
+  },
+  {
+    "type": "short_text",
+    "text": "Anchor plate” : Profile: Base material: Installation: Reinforcement:",
+    "page": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "Seismic loads (cat. C, D, E, or F)",
+    "page": 27
+  },
+  {
+    "type": "short_text",
+    "text": "as Pele IAIN OT",
+    "page": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "Kwik Bolt TZ2 - CS 1/2 (3 1/4) a ferrin",
+    "page": 27
+  },
+  {
+    "type": "header",
+    "text": "2210255 KB-TZ2 1/2x4 1/2 .",
+    "page": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti @ 1/2 in Kwik Bolt TZ2 - CS with 3.75 in nominal embedment depth per ICC-ES ESR-4266 , Hammer drill bit installation per",
+    "page": 27
+  },
+  {
+    "type": "drawing_label",
+    "text": "MPI, Hep act = 3-250 in., Apo = 3.750 in.",
+    "page": 27
+  },
+  {
+    "type": "short_text",
+    "text": "Carbon Steel",
+    "page": 27
+  },
+  {
+    "type": "drawing_label",
+    "text": "ESR-4266",
+    "page": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "10/1/2024 | 12/1/2025 Design Method ACI 318-14 / Mech Row closest to edge (Case 3 only from ACI 318-14 Fig. R.17.5.2.1b)",
+    "page": 27
+  },
+  {
+    "type": "drawing_label",
+    "text": "e€, = 0.000 in. (no stand-off); t = 0.250 in. I, Xl, x t= 2.441 in. x 2.441 in. x 0.250 in.; (Recommended plate thickness: not calculated)",
+    "page": 27
+  },
+  {
+    "type": "short_text",
+    "text": "no profile",
+    "page": 27
+  },
+  {
+    "type": "table_row",
+    "text": "cracked concrete, 6000, f,' = 6,000 psi; h = 6.000 in.",
+    "page": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "Hammer drilled hole, Installation condition: Dry tension: condition B, shear: condition B; no supplemental splitting reinforcement present edge reinforcement: none or < No. 4 bar Tension load: yes (17.2.3.4.3 (d)) Shear load: yes (17.2.3.5.3 (c)) ® _ The anchor calculation is based on a rigid anchor plate assumption. Geometry [in.] & Loading [Ib, in.Ib] Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 27
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 28
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 28
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com",
+    "page": 28
+  },
+  {
+    "type": "paragraph",
+    "text": "Company: Silicon Valley Mechanical, Inc. Page: 2",
+    "page": 28
+  },
+  {
+    "type": "short_text",
+    "text": "Address: Specifier:",
+    "page": 28
+  },
+  {
+    "type": "paragraph",
+    "text": "Phone | Fax: | E-Mail: Design: Single Tier Cable Tray Seismic Brace Date: 7/23/2025",
+    "page": 28
+  },
+  {
+    "type": "short_text",
+    "text": "Fastening point:",
+    "page": 28
+  },
+  {
+    "type": "header",
+    "text": "1.1 Design results",
+    "page": 28
+  },
+  {
+    "type": "paragraph",
+    "text": "Case Description Forces [Ib] / Moments [in.|b] Seismic Max. Util. Anchor [%]",
+    "page": 28
+  },
+  {
+    "type": "header",
+    "text": "1 Combination 1 N = 1,873; V, = 1,873; V, = 0; yes 55",
+    "page": 28
+  },
+  {
+    "type": "paragraph",
+    "text": "M, = 0; My = 0; M, = 0;",
+    "page": 28
+  },
+  {
+    "type": "header",
+    "text": "2 Load case/Resulting anchor forces y",
+    "page": 28
+  },
+  {
+    "type": "paragraph",
+    "text": "Anchor reactions [Ib] Tension force: (+Tension, -Compression) Anchor Tension force Shear force Shear force x Shear force y 1 1,873 1,873 1,873 0 Max. concrete compressive strain: - [%o] Max. concrete compressive stress: - [psi] Resulting tension force in (x/y)=(0.000/0.000): 1,873 [Ib] Resulting compression force in (x/y)=(-/-): 0 [Ib] Anchor forces are calculated based on the assumption of a rigid anchor plate.",
+    "page": 28
+  },
+  {
+    "type": "header",
+    "text": "3 Tension load",
+    "page": 28
+  },
+  {
+    "type": "paragraph",
+    "text": "Load N,,, [Ib] Capacity > N, [Ib] Utilization By = N,,,/® N,, Status Steel Strength* 1,873 8,433 23 OK Pullout Strength* N/A N/A N/A N/A Concrete Breakout Failure** 1,873 3,761 50 OK * highest loaded anchor “**anchor group (anchors in tension) Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 28
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 29
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com",
+    "page": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "Company: Silicon Valley Mechanical, Inc. Page:",
+    "page": 29
+  },
+  {
+    "type": "short_text",
+    "text": "Address: Specifier:",
+    "page": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "Phone | Fax: | E-Mail: Design: Single Tier Cable Tray Seismic Brace Date:",
+    "page": 29
+  },
+  {
+    "type": "short_text",
+    "text": "Fastening point:",
+    "page": 29
+  },
+  {
+    "type": "header",
+    "text": "3.1 Steel Strength",
+    "page": 29
+  },
+  {
+    "type": "short_text",
+    "text": "N,, = ESR value ) Nga 2 Nua Variables",
+    "page": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "Asen [in.'] f ia [PSI]",
+    "page": 29
+  },
+  {
+    "type": "short_text",
+    "text": "0.10 114,004 Calculations",
+    "page": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "refer to ICC-ES ESR-4266 ACI 318-14 Table 17.3.1.1",
+    "page": 29
+  },
+  {
+    "type": "short_text",
+    "text": "N.. [lb] 11,244 Results",
+    "page": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "N.. [lb] ® steel > No, [Ib] Nua [lb] 11,244 0.750 8,433 1,873",
+    "page": 29
+  },
+  {
+    "type": "header",
+    "text": "3.2 Concrete Breakout Failure",
+    "page": 29
+  },
+  {
+    "type": "drawing_label",
+    "text": "A",
+    "page": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "No = () Wean Von Wep.n Np",
+    "page": 29
+  },
+  {
+    "type": "short_text",
+    "text": "Anco °",
+    "page": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "Ay, see ACI 318-14, Section 17.4.2.1, Fig. R 17.4.2.1(b)",
+    "page": 29
+  },
+  {
+    "type": "short_text",
+    "text": ") Nop 2 Nua 2 Anco =9 Nes _ Ca min )",
+    "page": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "Wegn = 0.7 +0.3 (72 < 1.0",
+    "page": 29
+  },
+  {
+    "type": "short_text",
+    "text": "Cc ‘ac Cc N, = k, r a VE. her Camin 1-oh",
+    "page": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "Vopn = max (Sane, —s) < 1.0",
+    "page": 29
+  },
+  {
+    "type": "short_text",
+    "text": "ac",
+    "page": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "ACI 318-14 Eq. (17.4.2.1a) ACI 318-14 Table 17.3.1.1 ACI 318-14 Eq. (17.4.2.1c) ACI 318-14 Eq. (17.4.2.5b) ACI 318-14 Eq. (17.4.2.7b) ACI 318-14 Eq. (17.4.2.2a)",
+    "page": 29
+  },
+  {
+    "type": "short_text",
+    "text": "7/23/2025 Variables",
+    "page": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "hee [in.] Cy min fin] Won Cap lin] k, he f, [psi] 3.250 24.000 1.000 10.000 17 1.000 6,000",
+    "page": 29
+  },
+  {
+    "type": "short_text",
+    "text": "Calculations",
+    "page": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "Ax. {in.7] Axo [in.”] V ean V op. N, [Ib] 95.06 95.06 1.000 1.000 7,715",
+    "page": 29
+  },
+  {
+    "type": "short_text",
+    "text": "Results",
+    "page": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "Nob [Ib] ) concrete seismic ®nonductile 0) No [Ib] Nua [Ib] 7,715 0.650 0.750 1.000 3,761 1,873 Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 29
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 30
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 30
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com",
+    "page": 30
+  },
+  {
+    "type": "paragraph",
+    "text": "Company: Silicon Valley Mechanical, Inc. Page:",
+    "page": 30
+  },
+  {
+    "type": "short_text",
+    "text": "Address: Specifier:",
+    "page": 30
+  },
+  {
+    "type": "paragraph",
+    "text": "Phone | Fax: | E-Mail: Design: Single Tier Cable Tray Seismic Brace Date:",
+    "page": 30
+  },
+  {
+    "type": "short_text",
+    "text": "Fastening point: 7/23/2025",
+    "page": 30
+  },
+  {
+    "type": "header",
+    "text": "4 Shear load",
+    "page": 30
+  },
+  {
+    "type": "paragraph",
+    "text": "Load V,,, [Ib] Capacity ) V, [Ib] Utilization By = V./% V, Status Steel Strength* 1,873 4,471 42 OK Steel failure (with lever arm)* N/A N/A N/A N/A Pryout Strength** 1,873 10,801 18 OK Concrete edge failure in direction y+** 1,873 31,220 6 OK * highest loaded anchor “**anchor group (relevant anchors) When the input edge distance is set to \"infinity\", edge breakout verification is not performed in that direction",
+    "page": 30
+  },
+  {
+    "type": "header",
+    "text": "4.1 Steel Strength",
+    "page": 30
+  },
+  {
+    "type": "paragraph",
+    "text": "Vsaeq = ESR value refer to ICC-ES ESR-4266 > Veter > Vua ACI 318-14 Table 17.3.1.1",
+    "page": 30
+  },
+  {
+    "type": "short_text",
+    "text": "Variables",
+    "page": 30
+  },
+  {
+    "type": "paragraph",
+    "text": "Asev [in.’] fata [psi] hy seis",
+    "page": 30
+  },
+  {
+    "type": "short_text",
+    "text": "0.10 114,004 1.000 Calculations V sa,eq Lb] 6,878 Results",
+    "page": 30
+  },
+  {
+    "type": "paragraph",
+    "text": "V sa,eq [Ib] ) steel vy) V sa.eq [Ib] Via [Ib] 6,878 0.650 4,471 1,873 Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 30
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 31
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 31
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com",
+    "page": 31
+  },
+  {
+    "type": "paragraph",
+    "text": "Company: Silicon Valley Mechanical, Inc. Page: 5",
+    "page": 31
+  },
+  {
+    "type": "short_text",
+    "text": "Address: Specifier:",
+    "page": 31
+  },
+  {
+    "type": "paragraph",
+    "text": "Phone | Fax: | E-Mail: Design: Single Tier Cable Tray Seismic Brace Date: 7/23/2025",
+    "page": 31
+  },
+  {
+    "type": "short_text",
+    "text": "Fastening point:",
+    "page": 31
+  },
+  {
+    "type": "header",
+    "text": "4.2 Pryout Strength",
+    "page": 31
+  },
+  {
+    "type": "drawing_label",
+    "text": "A",
+    "page": 31
+  },
+  {
+    "type": "paragraph",
+    "text": "Von = Kop [(<) Vedn Ven Yeon Ny | ACI 318-14 Eq. (17.5.3.1a)",
+    "page": 31
+  },
+  {
+    "type": "short_text",
+    "text": "NcO",
+    "page": 31
+  },
+  {
+    "type": "paragraph",
+    "text": "® Vop > Vue ACI 318-14 Table 17.3.1.1 Ay, see ACI 318-14, Section 17.4.2.1, Fig. R 17.4.2.1(b) Anco = 9 Ne ACI 318-14 Eq. (17.4.2.1c)",
+    "page": 31
+  },
+  {
+    "type": "short_text",
+    "text": "Cc .",
+    "page": 31
+  },
+  {
+    "type": "paragraph",
+    "text": "V egy = 0.7 +0.3 (Fa ) < 1.0 ACI 318-14 Eq. (17.4.2.5b)",
+    "page": 31
+  },
+  {
+    "type": "short_text",
+    "text": "wef in 15h",
+    "page": 31
+  },
+  {
+    "type": "paragraph",
+    "text": "Vopn = max (Sane, —s) < 1.0 ACI 318-14 Eq. (17.4.2.7b)",
+    "page": 31
+  },
+  {
+    "type": "short_text",
+    "text": "ac ac",
+    "page": 31
+  },
+  {
+    "type": "paragraph",
+    "text": "N, =k, 4, Veni ACI 318-14 Eq. (17.4.2.2a)",
+    "page": 31
+  },
+  {
+    "type": "short_text",
+    "text": "Variables",
+    "page": 31
+  },
+  {
+    "type": "paragraph",
+    "text": "Kop hey [in.] Cy min [iN.] Von 2 3.250 24.000 1.000 Cag [in.] k, da f, [psil 10.000 17 1.000 6,000",
+    "page": 31
+  },
+  {
+    "type": "short_text",
+    "text": "Calculations",
+    "page": 31
+  },
+  {
+    "type": "paragraph",
+    "text": "Axe [in.7] Axo [in.7] V edn Vop.N N, [Ib] 95.06 95.06 1.000 1.000 7,715",
+    "page": 31
+  },
+  {
+    "type": "short_text",
+    "text": "Results",
+    "page": 31
+  },
+  {
+    "type": "paragraph",
+    "text": "Vop [Ib] o concrete seismic > nonductile ) Vop [Ib] Vua [!b] 15,430 0.700 1.000 1.000 10,801 1,873 Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 31
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 32
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com",
+    "page": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "Company: Silicon Valley Mechanical, Inc. Page:",
+    "page": 32
+  },
+  {
+    "type": "short_text",
+    "text": "Address: Specifier:",
+    "page": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "Phone | Fax: | E-Mail: Design: Single Tier Cable Tray Seismic Brace Date:",
+    "page": 32
+  },
+  {
+    "type": "short_text",
+    "text": "Fastening point:",
+    "page": 32
+  },
+  {
+    "type": "header",
+    "text": "4.3 Concrete edge failure in direction y+",
+    "page": 32
+  },
+  {
+    "type": "short_text",
+    "text": "Avc",
+    "page": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "Voy = Co) VY cav Vev Vay Vparatte.v Vb ACI 318-14 Eq. (17.5.2.1a)",
+    "page": 32
+  },
+  {
+    "type": "short_text",
+    "text": "Cc",
+    "page": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "& Vin > Vua ACI 318-14 Table 17.3.1.1 Ay, see ACI 318-14, Section 17.5.2.1, Fig. R 17.5.2.1(b)* Aveo = 4-5 om ACI 318-14 Eq. (17.5.2.1¢)",
+    "page": 32
+  },
+  {
+    "type": "short_text",
+    "text": "Cc",
+    "page": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "VW egy = 0.7 + 0.3(; - ) < 1.0 ACI 318-14 Eq. (17.5.2.6b)",
+    "page": 32
+  },
+  {
+    "type": "short_text",
+    "text": "“ial",
+    "page": 32
+  },
+  {
+    "type": "drawing_label",
+    "text": "1.5C,,",
+    "page": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "Wav = nh. 2 1.0 ACI 318-14 Eq. (17.5.2.8)",
+    "page": 32
+  },
+  {
+    "type": "short_text",
+    "text": "j oe 415",
+    "page": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "Vv, = (7 (=) a.) ha Vic) ACI 318-14 Eq. (17.5.2.2a)",
+    "page": 32
+  },
+  {
+    "type": "short_text",
+    "text": "a Variables",
+    "page": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "C,, [in.] Cy [in.] Vev h, [in.] I, [in.] 24.000 24.000 1.000 6.000 3.250 r a d, [in.] f, [psi] v parallel,V 1.000 0.500 6,000 2.000",
+    "page": 32
+  },
+  {
+    "type": "short_text",
+    "text": "Calculations",
+    "page": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "Ay. {in.7] A\\eo [in.’] V egy Viv Vy, [Ib] 360.00 2,592.00 1.000 2.449 65,548",
+    "page": 32
+  },
+  {
+    "type": "short_text",
+    "text": "Results",
+    "page": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "Vob [Ib] o concrete seismic > nonductile ) Vob [Ib] Vua [Ib] 44,600 0.700 1.000 1.000 31,220 1,873 *Anchor row defined by: Anchor 1; Case 3 controls When the input edge distance is set to \"infinity\", edge breakout verification is not performed in that direction",
+    "page": 32
+  },
+  {
+    "type": "header",
+    "text": "5 Combined tension and shear loads",
+    "page": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "By By C Utilization By, [%] Status",
+    "page": 32
+  },
+  {
+    "type": "drawing_label",
+    "text": "0.498 0.419 5/3 55 OK",
+    "page": 32
+  },
+  {
+    "type": "short_text",
+    "text": "Buy = By + By <= 1",
+    "page": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 32
+  },
+  {
+    "type": "short_text",
+    "text": "7/23/2025",
+    "page": 32
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 33
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 33
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com",
+    "page": 33
+  },
+  {
+    "type": "paragraph",
+    "text": "Company: Silicon Valley Mechanical, Inc. Page: 7",
+    "page": 33
+  },
+  {
+    "type": "short_text",
+    "text": "Address: Specifier:",
+    "page": 33
+  },
+  {
+    "type": "paragraph",
+    "text": "Phone | Fax: | E-Mail: Design: Single Tier Cable Tray Seismic Brace Date: 7/23/2025",
+    "page": 33
+  },
+  {
+    "type": "short_text",
+    "text": "Fastening point:",
+    "page": 33
+  },
+  {
+    "type": "header",
+    "text": "6 Warnings",
+    "page": 33
+  },
+  {
+    "type": "paragraph",
+    "text": "The anchor design methods in PROFIS Engineering require rigid anchor plates per current regulations (AS 5216:2021, ETAG 001/Annex C, EOTA TR029 etc.). This means load re-distribution on the anchors due to elastic deformations of the anchor plate are not considered - the anchor plate is assumed to be sufficiently stiff, in order not to be deformed when subjected to the design loading. PROFIS Engineering calculates the minimum required anchor plate thickness with CBFEM to limit the stress of the anchor plate based on the assumptions explained above. The proof if the rigid anchor plate assumption is valid is not carried out by PROFIS Engineering. Input data and results must be checked for agreement with the existing conditions and for plausibility! The equations presented in this report are based on imperial units. When inputs are displayed in metric units, the user should be aware that the equations remain in their imperial format. Condition A applies where the potential concrete failure surfaces are crossed by supplementary reinforcement proportioned to tie the potential concrete failure prism into the structural member. Condition B applies where such supplementary reinforcement is not provided, or where pullout or pryout strength governs. Refer to the manufacturer's product literature for cleaning and installation instructions. For additional information about ACI 318 strength design provisions, please go to https://viewer.joomag.com/profis-design-guide-us-en-summer-2021/0841849001625154758?short&/ « An anchor design approach for structures assigned to Seismic Design Category C, D, E or F is given in ACI 318-14, Chapter 17, Section 17.2.3.4.3 (a) that requires the governing design strength of an anchor or group of anchors be limited by ductile steel failure. If this is NOT the case, the connection design (tension) shall satisfy the provisions of Section 17.2.3.4.3 (b), Section 17.2.3.4.3 (c), or Section 17.2.3.4.3 (d). The connection design (shear) shall satisfy the provisions of Section 17.2.3.5.3 (a), Section 17.2.3.5.3 (b), or Section 17.2.3.5.3 (c). Section 17.2.3.4.3 (b) / Section 17.2.3.5.3 (a) require the attachment the anchors are connecting to the structure be designed to undergo ductile yielding at a load level corresponding to anchor forces no greater than the controlling design strength. Section 17.2.3.4.3 (c) / Section 17.2.3.5.3 (b) waive the ductility requirements and require the anchors to be designed for the maximum tension / shear that can be transmitted to the anchors by a non-yielding attachment. Section 17.2.3.4.3 (d) / Section 17.2.3.5.3 (c) waive the ductility requirements and require the design strength of the anchors to equal or exceed the maximum tension / shear obtained from design load combinations that include E, with E increased",
+    "page": 33
+  },
+  {
+    "type": "short_text",
+    "text": "by @p.",
+    "page": 33
+  },
+  {
+    "type": "paragraph",
+    "text": "¢ Hilti post-installed anchors shall be installed in accordance with the Hilti Manufacturer's Printed Installation Instructions (MPII). Reference ACI 318-14, Section 17.8.1. Fastening meets the design criteria! Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 33
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 34
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com Company: Page: 1 Address: Specifier:",
+    "page": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "Phone | Fax: | E-Mail: Design: Single Tier Cable Tray Seismic Vertical Support Date: 7/24/2025",
+    "page": 34
+  },
+  {
+    "type": "short_text",
+    "text": "Fastening point:",
+    "page": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "Specifier's comments:",
+    "page": 34
+  },
+  {
+    "type": "header",
+    "text": "1 Input data",
+    "page": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "Anchor type and diameter:",
+    "page": 34
+  },
+  {
+    "type": "short_text",
+    "text": "Item number: Specification text:",
+    "page": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "Effective embedment depth:",
+    "page": 34
+  },
+  {
+    "type": "short_text",
+    "text": "Material:",
+    "page": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "Evaluation Service Report:",
+    "page": 34
+  },
+  {
+    "type": "short_text",
+    "text": "Issued | Valid: Proof:",
+    "page": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "Shear edge breakout verification: Stand-off installation:",
+    "page": 34
+  },
+  {
+    "type": "short_text",
+    "text": "Anchor plate” : Profile: Base material: Installation: Reinforcement:",
+    "page": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "Seismic loads (cat. C, D, E, or F)",
+    "page": 34
+  },
+  {
+    "type": "short_text",
+    "text": "» 0 eee",
+    "page": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "Kwik Bolt TZ2 - CS 1/2 (3 1/4) oe",
+    "page": 34
+  },
+  {
+    "type": "short_text",
+    "text": "(oo,",
+    "page": 34
+  },
+  {
+    "type": "header",
+    "text": "2210255 KB-TZ2 1/2x4 1/2 “",
+    "page": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti @ 1/2 in Kwik Bolt TZ2 - CS with 3.75 in nominal embedment depth per ICC-ES ESR-4266 , Hammer drill bit installation per",
+    "page": 34
+  },
+  {
+    "type": "drawing_label",
+    "text": "MPI, Hep act = 3-250 in., Apo = 3.750 in.",
+    "page": 34
+  },
+  {
+    "type": "short_text",
+    "text": "Carbon Steel",
+    "page": 34
+  },
+  {
+    "type": "drawing_label",
+    "text": "ESR-4266",
+    "page": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "10/1/2024 | 12/1/2025 Design Method ACI 318-14 / Mech Row closest to edge (Case 3 only from ACI 318-14 Fig. R.17.5.2.1b)",
+    "page": 34
+  },
+  {
+    "type": "drawing_label",
+    "text": "e€, = 0.000 in. (no stand-off); t = 0.250 in. I, Xl, x t = 3.378 in. x 3.378 in. x 0.250 in.; (Recommended plate thickness: not calculated) HOUR OED BEE HE",
+    "page": 34
+  },
+  {
+    "type": "short_text",
+    "text": "no profile",
+    "page": 34
+  },
+  {
+    "type": "table_row",
+    "text": "cracked concrete, 6000, f,' = 6,000 psi; h = 6.000 in.",
+    "page": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "Hammer drilled hole, Installation condition: Dry tension: condition B, shear: condition B; no supplemental splitting reinforcement present edge reinforcement: none or < No. 4 bar Tension load: yes (17.2.3.4.3 (d)) Shear load: yes (17.2.3.5.3 (c)) ® _ The anchor calculation is based on a rigid anchor plate assumption. Geometry [in.] & Loading [Ib, in.Ib] Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 34
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 35
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 35
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com Company: Page: 2 Address: Specifier:",
+    "page": 35
+  },
+  {
+    "type": "paragraph",
+    "text": "Phone | Fax: | E-Mail: Design: Single Tier Cable Tray Seismic Vertical Support Date: 7/24/2025",
+    "page": 35
+  },
+  {
+    "type": "short_text",
+    "text": "Fastening point:",
+    "page": 35
+  },
+  {
+    "type": "header",
+    "text": "1.1 Design results",
+    "page": 35
+  },
+  {
+    "type": "paragraph",
+    "text": "Case Description Forces [Ib] / Moments [in.|b] Seismic Max. Util. Anchor [%]",
+    "page": 35
+  },
+  {
+    "type": "header",
+    "text": "1 Combination 1 N = 1,907; V, = 0; Vy = 0; yes 51",
+    "page": 35
+  },
+  {
+    "type": "paragraph",
+    "text": "M, = 0; My = 0; M, = 0;",
+    "page": 35
+  },
+  {
+    "type": "header",
+    "text": "2 Load case/Resulting anchor forces y",
+    "page": 35
+  },
+  {
+    "type": "paragraph",
+    "text": "Anchor reactions [Ib] Tension force: (+Tension, -Compression) Anchor Tension force Shear force Shear force x Shear force y",
+    "page": 35
+  },
+  {
+    "type": "short_text",
+    "text": "1 1,907 0 0 0",
+    "page": 35
+  },
+  {
+    "type": "paragraph",
+    "text": "Max. concrete compressive strain: - [%o] . Max. concrete compressive stress: - [psi] Resulting tension force in (x/y)=(0.000/0.000): 1,907 [Ib] Resulting compression force in (x/y)=(-/-): 0 [Ib] Anchor forces are calculated based on the assumption of a rigid anchor plate.",
+    "page": 35
+  },
+  {
+    "type": "header",
+    "text": "3 Tension load",
+    "page": 35
+  },
+  {
+    "type": "paragraph",
+    "text": "Load N,,, [Ib] Capacity > N, [Ib] Utilization By = N,,,/® N,, Status Steel Strength* 1,907 8,433 23 OK Pullout Strength* N/A N/A N/A N/A Concrete Breakout Failure** 1,907 3,761 51 OK * highest loaded anchor “**anchor group (anchors in tension) Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 35
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 36
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com Company: Page: 3 Address: Specifier:",
+    "page": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "Phone | Fax: | E-Mail: Design: Single Tier Cable Tray Seismic Vertical Support Date: 7/24/2025",
+    "page": 36
+  },
+  {
+    "type": "short_text",
+    "text": "Fastening point:",
+    "page": 36
+  },
+  {
+    "type": "header",
+    "text": "3.1 Steel Strength",
+    "page": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "N,, = ESR value refer to ICC-ES ESR-4266 & No >Nua ACI 318-14 Table 17.3.1.1",
+    "page": 36
+  },
+  {
+    "type": "short_text",
+    "text": "Variables",
+    "page": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "Asen [in.'] f ia [PSI]",
+    "page": 36
+  },
+  {
+    "type": "short_text",
+    "text": "0.10 114,004 Calculations N,, [Ib] 11,244 Results",
+    "page": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "Nsa [Ib] b steel o Nea [Ib] Nua [Ib] 11,244 0.750 8,433 1,907",
+    "page": 36
+  },
+  {
+    "type": "header",
+    "text": "3.2 Concrete Breakout Failure",
+    "page": 36
+  },
+  {
+    "type": "short_text",
+    "text": "_ Anc",
+    "page": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "No = Bea Vegn Yon Vopn Np ACI 318-14 Eq. (17.4.2.1a) ® Na >Nua ACI 318-14 Table 17.3.1.1 Ay, see ACI 318-14, Section 17.4.2.1, Fig. R 17.4.2.1(b) Anco = 9 he, ACI 318-14 Eq. (17.4.2.1c)",
+    "page": 36
+  },
+  {
+    "type": "short_text",
+    "text": "Cc...",
+    "page": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "WVeagn =0.7+0.3 (; Sh. ) < 1.0 ACI 318-14 Eq. (17.4.2.5b)",
+    "page": 36
+  },
+  {
+    "type": "short_text",
+    "text": "ef i, 1-oh",
+    "page": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "Voopn = max (Sane, —s) < 1.0 ACI 318-14 Eq. (17.4.2.7b)",
+    "page": 36
+  },
+  {
+    "type": "short_text",
+    "text": ", Cac Cac",
+    "page": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "N, =k, 4, Veni ACI 318-14 Eq. (17.4.2.2a)",
+    "page": 36
+  },
+  {
+    "type": "short_text",
+    "text": "Variables",
+    "page": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "hee [in.] Cy min fin] Won Cap lin] k, he f, [psi] 3.250 24.000 1.000 10.000 17 1.000 6,000",
+    "page": 36
+  },
+  {
+    "type": "short_text",
+    "text": "Calculations",
+    "page": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "Ax. {in.7] Axo [in.”] V ean V op. N, [Ib] 95.06 95.06 1.000 1.000 7,715",
+    "page": 36
+  },
+  {
+    "type": "short_text",
+    "text": "Results",
+    "page": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "Nob [Ib] ) concrete D seismic ® nonductile ) No [Ib] Nua [Ib] 7,715 0.650 0.750 1.000 3,761 1,907 Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 36
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 37
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 37
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com Company: Page: 4 Address: Specifier:",
+    "page": 37
+  },
+  {
+    "type": "paragraph",
+    "text": "Phone | Fax: | E-Mail: Design: Single Tier Cable Tray Seismic Vertical Support Date: 7/24/2025",
+    "page": 37
+  },
+  {
+    "type": "short_text",
+    "text": "Fastening point:",
+    "page": 37
+  },
+  {
+    "type": "header",
+    "text": "4 Shear load",
+    "page": 37
+  },
+  {
+    "type": "paragraph",
+    "text": "Load V,,, [Ib] Capacity ? V, [Ib] Utilization By = V,/® V,, Status Steel Strength* N/A N/A N/A N/A Steel failure (with lever arm)* N/A N/A N/A N/A Pryout Strength* N/A N/A N/A N/A Concrete edge failure in direction ** N/A N/A N/A N/A * highest loaded anchor “**anchor group (relevant anchors)",
+    "page": 37
+  },
+  {
+    "type": "header",
+    "text": "5 Warnings",
+    "page": 37
+  },
+  {
+    "type": "paragraph",
+    "text": "The anchor design methods in PROFIS Engineering require rigid anchor plates per current regulations (AS 5216:2021, ETAG 001/Annex C, EOTA TR029 etc.). This means load re-distribution on the anchors due to elastic deformations of the anchor plate are not considered - the anchor plate is assumed to be sufficiently stiff, in order not to be deformed when subjected to the design loading. PROFIS Engineering calculates the minimum required anchor plate thickness with CBFEM to limit the stress of the anchor plate based on the assumptions explained above. The proof if the rigid anchor plate assumption is valid is not carried out by PROFIS Engineering. Input data and results must be checked for agreement with the existing conditions and for plausibility! The equations presented in this report are based on imperial units. When inputs are displayed in metric units, the user should be aware that the equations remain in their imperial format. Condition A applies where the potential concrete failure surfaces are crossed by supplementary reinforcement proportioned to tie the potential concrete failure prism into the structural member. Condition B applies where such supplementary reinforcement is not provided, or where pullout or pryout strength governs. Refer to the manufacturer's product literature for cleaning and installation instructions. For additional information about ACI 318 strength design provisions, please go to https://viewer.joomag.com/profis-design-guide-us-en-summer-2021/0841849001625154758?short&/ « An anchor design approach for structures assigned to Seismic Design Category C, D, E or F is given in ACI 318-14, Chapter 17, Section 17.2.3.4.3 (a) that requires the governing design strength of an anchor or group of anchors be limited by ductile steel failure. If this is NOT the case, the connection design (tension) shall satisfy the provisions of Section 17.2.3.4.3 (b), Section 17.2.3.4.3 (c), or Section 17.2.3.4.3 (d). The connection design (shear) shall satisfy the provisions of Section 17.2.3.5.3 (a), Section 17.2.3.5.3 (b), or Section 17.2.3.5.3 (c). Section 17.2.3.4.3 (b) / Section 17.2.3.5.3 (a) require the attachment the anchors are connecting to the structure be designed to undergo ductile yielding at a load level corresponding to anchor forces no greater than the controlling design strength. Section 17.2.3.4.3 (c) / Section 17.2.3.5.3 (b) waive the ductility requirements and require the anchors to be designed for the maximum tension / shear that can be transmitted to the anchors by a non-yielding attachment. Section 17.2.3.4.3 (d) / Section 17.2.3.5.3 (c) waive the ductility requirements and require the design strength of the anchors to equal or exceed the maximum tension / shear obtained from design load combinations that include E, with E increased",
+    "page": 37
+  },
+  {
+    "type": "short_text",
+    "text": "by Wp.",
+    "page": 37
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti post-installed anchors shall be installed in accordance with the Hilti Manufacturer's Printed Installation Instructions (MPII). Reference ACI 318-14, Section 17.8.1. Fastening meets the design criteria! Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 37
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 38
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 38
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com Company: Address: Phone | Fax: | Design: Fastening point:",
+    "page": 38
+  },
+  {
+    "type": "paragraph",
+    "text": "Double Tier Cable Tray Seismic Vertical Support",
+    "page": 38
+  },
+  {
+    "type": "short_text",
+    "text": "Page: 1 Specifier: E-Mail: Date: 7/24/2025",
+    "page": 38
+  },
+  {
+    "type": "paragraph",
+    "text": "Specifier's comments:",
+    "page": 38
+  },
+  {
+    "type": "header",
+    "text": "1 Input data",
+    "page": 38
+  },
+  {
+    "type": "paragraph",
+    "text": "Anchor type and diameter:",
+    "page": 38
+  },
+  {
+    "type": "short_text",
+    "text": "Item number: Specification text:",
+    "page": 38
+  },
+  {
+    "type": "paragraph",
+    "text": "Effective embedment depth:",
+    "page": 38
+  },
+  {
+    "type": "short_text",
+    "text": "Material:",
+    "page": 38
+  },
+  {
+    "type": "paragraph",
+    "text": "Evaluation Service Report:",
+    "page": 38
+  },
+  {
+    "type": "short_text",
+    "text": "Issued | Valid: Proof:",
+    "page": 38
+  },
+  {
+    "type": "paragraph",
+    "text": "Shear edge breakout verification: Stand-off installation:",
+    "page": 38
+  },
+  {
+    "type": "short_text",
+    "text": "Anchor plate” : Profile: Base material: Installation: Reinforcement:",
+    "page": 38
+  },
+  {
+    "type": "paragraph",
+    "text": "Seismic loads (cat. C, D, E, or F) Kwik Bolt TZ2 - CS 5/8 (4) hnom3",
+    "page": 38
+  },
+  {
+    "type": "header",
+    "text": "2210272 KB-TZ2 5/8x5 1/2",
+    "page": 38
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti @ 5/8 in Kwik Bolt TZ2 - CS with 4.5 in nominal embedment depth per ICC-ES ESR-4266 , Hammer drill bit installation per",
+    "page": 38
+  },
+  {
+    "type": "drawing_label",
+    "text": "MPI, Netact = 4-000 in., hyo, = 4-500 in.",
+    "page": 38
+  },
+  {
+    "type": "short_text",
+    "text": "Carbon Steel",
+    "page": 38
+  },
+  {
+    "type": "drawing_label",
+    "text": "ESR-4266",
+    "page": 38
+  },
+  {
+    "type": "paragraph",
+    "text": "10/1/2024 | 12/1/2025 Design Method ACI 318-14 / Mech",
+    "page": 38
+  },
+  {
+    "type": "short_text",
+    "text": "* 1 estar og) <oemnen |",
+    "page": 38
+  },
+  {
+    "type": "drawing_label",
+    "text": "HOUR OED BEE HE",
+    "page": 38
+  },
+  {
+    "type": "paragraph",
+    "text": "Row closest to edge (Case 3 only from ACI 318-14 Fig. R.17.5.2.1b)",
+    "page": 38
+  },
+  {
+    "type": "drawing_label",
+    "text": "e€, = 0.000 in. (no stand-off); t = 0.250 in. I, Xl, x t = 3.378 in. x 3.378 in. x 0.250 in.; (Recommended plate thickness: not calculated)",
+    "page": 38
+  },
+  {
+    "type": "short_text",
+    "text": "no profile",
+    "page": 38
+  },
+  {
+    "type": "table_row",
+    "text": "cracked concrete, 6000, f,' = 6,000 psi; h = 6.000 in.",
+    "page": 38
+  },
+  {
+    "type": "paragraph",
+    "text": "Hammer drilled hole, Installation condition: Dry tension: condition B, shear: condition B; no supplemental splitting reinforcement present edge reinforcement: none or < No. 4 bar Tension load: yes (17.2.3.4.3 (d)) Shear load: yes (17.2.3.5.3 (c)) ® _ The anchor calculation is based on a rigid anchor plate assumption. Geometry [in.] & Loading [Ib, in.Ib] Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 38
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 39
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 39
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com Company: Page: 2 Address: Specifier:",
+    "page": 39
+  },
+  {
+    "type": "paragraph",
+    "text": "Phone | Fax: | E-Mail: Design: Double Tier Cable Tray Seismic Vertical Support Date: 7/24/2025",
+    "page": 39
+  },
+  {
+    "type": "short_text",
+    "text": "Fastening point:",
+    "page": 39
+  },
+  {
+    "type": "header",
+    "text": "1.1 Design results",
+    "page": 39
+  },
+  {
+    "type": "paragraph",
+    "text": "Case Description Forces [Ib] / Moments [in.|b] Seismic Max. Util. Anchor [%]",
+    "page": 39
+  },
+  {
+    "type": "header",
+    "text": "1 Combination 1 N = 3,814; V, = 0; Vy = 0; yes 75",
+    "page": 39
+  },
+  {
+    "type": "paragraph",
+    "text": "M, = 0; My = 0; M, = 0;",
+    "page": 39
+  },
+  {
+    "type": "header",
+    "text": "2 Load case/Resulting anchor forces y",
+    "page": 39
+  },
+  {
+    "type": "paragraph",
+    "text": "Anchor reactions [Ib] Tension force: (+Tension, -Compression) Anchor Tension force Shear force Shear force x Shear force y",
+    "page": 39
+  },
+  {
+    "type": "short_text",
+    "text": "1 3,814 0 0 0",
+    "page": 39
+  },
+  {
+    "type": "paragraph",
+    "text": "Max. concrete compressive strain: - [%o] Max. concrete compressive stress: - [psi] Resulting tension force in (x/y)=(0.000/0.000): 3,814 [Ib] Resulting compression force in (x/y)=(-/-): 0 [Ib] Anchor forces are calculated based on the assumption of a rigid anchor plate.",
+    "page": 39
+  },
+  {
+    "type": "header",
+    "text": "3 Tension load",
+    "page": 39
+  },
+  {
+    "type": "paragraph",
+    "text": "Load N,,, [Ib] Capacity > N, [Ib] Utilization By = N,,,/® N,, Status Steel Strength* 3,814 13,157 29 OK Pullout Strength* N/A N/A N/A N/A Concrete Breakout Failure** 3,814 5,136 75 OK * highest loaded anchor “**anchor group (anchors in tension) Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 39
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 40
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com Company: Address: Phone | Fax: Design: Fastening point: |",
+    "page": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "Double Tier Cable Tray Seismic Vertical Support",
+    "page": 40
+  },
+  {
+    "type": "short_text",
+    "text": "Page: Specifier: E-Mail: Date:",
+    "page": 40
+  },
+  {
+    "type": "header",
+    "text": "3.1 Steel Strength",
+    "page": 40
+  },
+  {
+    "type": "short_text",
+    "text": "N,, = ESR value ) Nga 2 Nua Variables Asen [in.']",
+    "page": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "refer to ICC-ES ESR-4266 ACI 318-14 Table 17.3.1.1",
+    "page": 40
+  },
+  {
+    "type": "short_text",
+    "text": "futa [Psi] 0.16 Calculations N,, [Ib] 17,542 Results N,, [Ib] 106,704",
+    "page": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "steel > N,, [Ib] Nua [Ib]",
+    "page": 40
+  },
+  {
+    "type": "short_text",
+    "text": "17,542 0.750 13,157 3,814",
+    "page": 40
+  },
+  {
+    "type": "header",
+    "text": "3.2 Concrete Breakout Failure",
+    "page": 40
+  },
+  {
+    "type": "drawing_label",
+    "text": "A",
+    "page": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "No = () Wean Von Wep.n Np",
+    "page": 40
+  },
+  {
+    "type": "short_text",
+    "text": "Anco °",
+    "page": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "Ay, see ACI 318-14, Section 17.4.2.1, Fig. R 17.4.2.1(b)",
+    "page": 40
+  },
+  {
+    "type": "short_text",
+    "text": ") Nop 2 Nua 2 Anco =9 Nes _ Ca min )",
+    "page": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "Vein =0.7 + 0.3 (72 < 1.0",
+    "page": 40
+  },
+  {
+    "type": "short_text",
+    "text": "Ca min 10h",
+    "page": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "Vopn = max (Sane, —s) < 1.0",
+    "page": 40
+  },
+  {
+    "type": "short_text",
+    "text": "ac ‘ac N, = k, r a VE. her",
+    "page": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "ACI 318-14 Eq. (17.4.2.1a) ACI 318-14 Table 17.3.1.1 ACI 318-14 Eq. (17.4.2.1c) ACI 318-14 Eq. (17.4.2.5b) ACI 318-14 Eq. (17.4.2.7b) ACI 318-14 Eq. (17.4.2.2a)",
+    "page": 40
+  },
+  {
+    "type": "short_text",
+    "text": "7/24/2025 Variables",
+    "page": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "hee [in.] Cy min fin] Won Cap lin] k, he f, [psi] 4.000 24.000 1.000 8.750 17 1.000 6,000",
+    "page": 40
+  },
+  {
+    "type": "short_text",
+    "text": "Calculations",
+    "page": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "Ax. {in.7] Axo [in.”] V ean V op. N, [Ib] 144.00 144.00 1.000 1.000 10,535",
+    "page": 40
+  },
+  {
+    "type": "short_text",
+    "text": "Results",
+    "page": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "Nob [Ib] ) concrete seismic ®nonductile 0) No [Ib] Nua [Ib] 10,535 0.650 0.750 1.000 5,136 3,814 Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 40
+  },
+  {
+    "type": "short_text",
+    "text": "Sr",
+    "page": 41
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti PROFIS Engineering 3.1.18",
+    "page": 41
+  },
+  {
+    "type": "short_text",
+    "text": "www.hilti.com Company: Page: 4 Address: Specifier:",
+    "page": 41
+  },
+  {
+    "type": "paragraph",
+    "text": "Phone | Fax: | E-Mail: Design: Double Tier Cable Tray Seismic Vertical Support Date: 7/24/2025",
+    "page": 41
+  },
+  {
+    "type": "short_text",
+    "text": "Fastening point:",
+    "page": 41
+  },
+  {
+    "type": "header",
+    "text": "4 Shear load",
+    "page": 41
+  },
+  {
+    "type": "paragraph",
+    "text": "Load V,,, [Ib] Capacity ) V, [Ib] Utilization By = V./% V, Status Steel Strength* N/A N/A N/A N/A Steel failure (with lever arm)* N/A N/A N/A N/A Pryout Strength* N/A N/A N/A N/A Concrete edge failure in direction ** N/A N/A N/A N/A * highest loaded anchor “**anchor group (relevant anchors)",
+    "page": 41
+  },
+  {
+    "type": "header",
+    "text": "5 Warnings",
+    "page": 41
+  },
+  {
+    "type": "paragraph",
+    "text": "The anchor design methods in PROFIS Engineering require rigid anchor plates per current regulations (AS 5216:2021, ETAG 001/Annex C, EOTA TR029 etc.). This means load re-distribution on the anchors due to elastic deformations of the anchor plate are not considered - the anchor plate is assumed to be sufficiently stiff, in order not to be deformed when subjected to the design loading. PROFIS Engineering calculates the minimum required anchor plate thickness with CBFEM to limit the stress of the anchor plate based on the assumptions explained above. The proof if the rigid anchor plate assumption is valid is not carried out by PROFIS Engineering. Input data and results must be checked for agreement with the existing conditions and for plausibility! The equations presented in this report are based on imperial units. When inputs are displayed in metric units, the user should be aware that the equations remain in their imperial format. Condition A applies where the potential concrete failure surfaces are crossed by supplementary reinforcement proportioned to tie the potential concrete failure prism into the structural member. Condition B applies where such supplementary reinforcement is not provided, or where pullout or pryout strength governs. Refer to the manufacturer's product literature for cleaning and installation instructions. For additional information about ACI 318 strength design provisions, please go to https://viewer.joomag.com/profis-design-guide-us-en-summer-2021/0841849001625154758?short&/ « An anchor design approach for structures assigned to Seismic Design Category C, D, E or F is given in ACI 318-14, Chapter 17, Section 17.2.3.4.3 (a) that requires the governing design strength of an anchor or group of anchors be limited by ductile steel failure. If this is NOT the case, the connection design (tension) shall satisfy the provisions of Section 17.2.3.4.3 (b), Section 17.2.3.4.3 (c), or Section 17.2.3.4.3 (d). The connection design (shear) shall satisfy the provisions of Section 17.2.3.5.3 (a), Section 17.2.3.5.3 (b), or Section 17.2.3.5.3 (c). Section 17.2.3.4.3 (b) / Section 17.2.3.5.3 (a) require the attachment the anchors are connecting to the structure be designed to undergo ductile yielding at a load level corresponding to anchor forces no greater than the controlling design strength. Section 17.2.3.4.3 (c) / Section 17.2.3.5.3 (b) waive the ductility requirements and require the anchors to be designed for the maximum tension / shear that can be transmitted to the anchors by a non-yielding attachment. Section 17.2.3.4.3 (d) / Section 17.2.3.5.3 (c) waive the ductility requirements and require the design strength of the anchors to equal or exceed the maximum tension / shear obtained from design load combinations that include E, with E increased",
+    "page": 41
+  },
+  {
+    "type": "short_text",
+    "text": "by Wp.",
+    "page": 41
+  },
+  {
+    "type": "paragraph",
+    "text": "Hilti post-installed anchors shall be installed in accordance with the Hilti Manufacturer's Printed Installation Instructions (MPII). Reference ACI 318-14, Section 17.8.1. Fastening meets the design criteria! Input data and results must be checked for conformity with the existing conditions and for plausibility! PROFIS Engineering ( c ) 2003-2025 Hilti AG, FL-9494 Schaan Hilti is a registered Trademark of Hilti AG, Schaan",
+    "page": 41
+  }
+]
