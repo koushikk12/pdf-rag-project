@@ -1,116 +1,98 @@
-from typing import List, Dict
+import re
+from app.core.numeric_extractor import extract_numeric_entities
 
 
-MAX_PARAGRAPH_TOKENS = 500   # safe size for embedding
-MIN_PARAGRAPH_LENGTH = 40
+MAX_CHUNK_LENGTH = 900
+MIN_CHUNK_LENGTH = 300
+CHUNK_OVERLAP = 120
 
 
-def estimate_tokens(text: str) -> int:
-    # Rough token estimate (good enough for chunking)
-    return len(text.split())
+def normalize_text(text):
+
+    text = text.replace("\x00", "")
+    text = re.sub(r"\s+", " ", text)
+
+    return text.strip()
 
 
-def build_chunk(blocks: List[Dict]) -> Dict:
-    return {
-        "text": " ".join(b["text"].strip() for b in blocks),
-        "page": blocks[0]["page"],
-        "block_type": blocks[0]["type"],
-    }
+def split_long_text(text):
 
-
-def smart_chunk_blocks(blocks: List[Dict]) -> List[Dict]:
+    parts = re.split(r"(?<=[.!?;:])\s+", text)
 
     chunks = []
-    current_chunk = []
-    current_tokens = 0
-    current_page = None
-    current_type = None
+    current = ""
 
-    for block in blocks:
+    for part in parts:
 
-        text = block["text"].strip()
-        block_type = block["type"]
-        page = block["page"]
-        tokens = estimate_tokens(text)
-
-        # 🔴 RULE 1: Never cross page boundary
-        if current_page is not None and page != current_page:
-            if current_chunk:
-                chunks.append(build_chunk(current_chunk))
-            current_chunk = []
-            current_tokens = 0
-
-        # 🔴 RULE 2: Never mix block types
-        if current_type is not None and block_type != current_type:
-            if current_chunk:
-                chunks.append(build_chunk(current_chunk))
-            current_chunk = []
-            current_tokens = 0
-
-        # 🔴 RULE 3: Headers always standalone chunks
-        if block_type == "header":
-            if current_chunk:
-                chunks.append(build_chunk(current_chunk))
-            chunks.append({
-                "text": text,
-                "page": page,
-                "block_type": "header"
-            })
-            current_chunk = []
-            current_tokens = 0
-            current_page = page
-            current_type = None
+        if not part:
             continue
 
-        # 🔴 RULE 4: Table rows = individual chunks
-        if block_type == "table_row":
-            if current_chunk:
-                chunks.append(build_chunk(current_chunk))
-                current_chunk = []
-                current_tokens = 0
+        candidate = f"{current} {part}".strip() if current else part
 
-            chunks.append({
-                "text": text,
-                "page": page,
-                "block_type": "table_row"
-            })
+        if len(candidate) <= MAX_CHUNK_LENGTH:
+            current = candidate
+        else:
 
-            current_page = page
-            current_type = None
-            continue
+            if current:
+                chunks.append(current)
 
-        # 🔴 RULE 5: Drawing labels = atomic
-        if block_type == "drawing_label" or block_type == "short_text":
-            if current_chunk:
-                chunks.append(build_chunk(current_chunk))
-                current_chunk = []
-                current_tokens = 0
+                tail = current[-CHUNK_OVERLAP:]
+                current = f"{tail} {part}".strip()
 
-            chunks.append({
-                "text": text,
-                "page": page,
-                "block_type": block_type
-            })
+            else:
+                chunks.append(part[:MAX_CHUNK_LENGTH])
+                current = part[MAX_CHUNK_LENGTH:]
 
-            current_page = page
-            current_type = None
-            continue
+    if current:
+        chunks.append(current)
 
-        # 🔵 RULE 6: Paragraph grouping (semantic size control)
-        if block_type == "paragraph":
-            if current_tokens + tokens > MAX_PARAGRAPH_TOKENS and current_chunk:
-                chunks.append(build_chunk(current_chunk))
-                current_chunk = []
-                current_tokens = 0
+    return chunks
 
-            current_chunk.append(block)
-            current_tokens += tokens
-            current_page = page
-            current_type = block_type
-            continue
 
-    # Add leftover chunk
-    if current_chunk:
-        chunks.append(build_chunk(current_chunk))
+def build_chunks(sections):
+
+    chunks = []
+
+    for section in sections:
+
+        buffer = ""
+
+        for block in section["blocks"]:
+
+            text = normalize_text(block["text"])
+
+            candidate = f"{buffer} {text}".strip() if buffer else text
+
+            if len(candidate) > MAX_CHUNK_LENGTH:
+
+                if len(buffer) >= MIN_CHUNK_LENGTH:
+
+                    for part in split_long_text(buffer):
+
+                        chunks.append({
+                            "text": part,
+                            "section": section["section_title"],
+                            "page": block["page"],
+                            "numbers": extract_numeric_entities(part)
+                        })
+
+                    buffer = ""
+
+                else:
+                    buffer = candidate
+
+            else:
+                buffer = candidate
+
+        if buffer:
+
+            for part in split_long_text(buffer):
+
+                chunks.append({
+                    "text": part,
+                    "section": section["section_title"],
+                    "page": block["page"],
+                    "numbers": extract_numeric_entities(part)
+                })
 
     return chunks
